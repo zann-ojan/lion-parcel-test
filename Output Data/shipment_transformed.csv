@@ -1,0 +1,987 @@
+shipment_id,customer_id,origin_city,destination_city,status,booked_date,estimated_delivery_date,chargeable_weight_kg,total_amount,delivered_date,delivery_duration_days,delivery_delay_days,is_delayed
+SHP100644,3,Padang,Denpasar,In Transit,2024-05-16,2024-05-24,17,100998,,,,False
+SHP100629,1,Semarang,Balikpapan,In Transit,2024-05-04,2024-05-13,10,63356,,,,False
+SHP100070,5,Medan,Jakarta,Delivered,2024-02-26,2024-03-06,7,62648,2024-03-05,8.0,-1.0,False
+SHP100962,5,Medan,Balikpapan,Delivered,2024-01-21,2024-01-26,15,117592,2024-01-24,3.0,-2.0,False
+SHP100787,13,Bandung,Denpasar,Delivered,2024-05-05,2024-05-08,10,84344,2024-05-06,1.0,-2.0,False
+SHP100706,13,Medan,Padang,Delivered,2024-03-20,2024-03-23,15,125458,2024-03-22,2.0,-1.0,False
+SHP100308,6,Manado,Makassar,Delivered,2024-06-08,2024-06-13,1,21098,2024-06-12,4.0,-1.0,False
+SHP100999,14,Batam,Pontianak,Delivered,2024-02-11,2024-02-13,13,68735,2024-02-18,7.0,5.0,True
+SHP100336,8,Banjarmasin,Denpasar,Delivered,2024-02-04,2024-02-09,5,49116,2024-02-14,10.0,5.0,True
+SHP100321,11,Palembang,Batam,Delivered,2024-03-13,2024-03-17,13,105216,2024-03-17,4.0,0.0,False
+SHP100107,8,Bandung,Padang,Delivered,2024-02-15,2024-02-17,12,105257,2024-02-19,4.0,2.0,True
+SHP100139,15,Batam,Makassar,Cancelled,2024-02-02,2024-02-10,20,102436,,,,False
+SHP100572,12,Semarang,Jakarta,Delivered,2024-05-20,2024-05-27,10,69508,2024-05-26,6.0,-1.0,False
+SHP100993,10,Banjarmasin,Yogyakarta,Delivered,2024-03-30,2024-04-04,16,125930,2024-04-06,7.0,2.0,True
+SHP100208,13,Denpasar,Banjarmasin,Delivered,2024-01-16,2024-01-20,6,47499,2024-01-24,8.0,4.0,True
+SHP100244,3,Banjarmasin,Jakarta,Cancelled,2024-03-08,2024-03-17,11,91995,,,,False
+SHP100552,4,Balikpapan,Medan,Delivered,2024-02-15,2024-02-22,20,127477,2024-02-23,8.0,1.0,True
+SHP100101,10,Palembang,Batam,Delivered,2024-04-21,2024-04-29,7,63144,2024-05-01,10.0,2.0,True
+SHP100739,1,Surabaya,Jakarta,Delivered,2024-04-02,2024-04-08,4,44076,2024-04-12,10.0,4.0,True
+SHP100286,1,Makassar,Batam,Delivered,2024-04-17,2024-04-24,9,64739,2024-04-22,5.0,-2.0,False
+SHP100318,3,Padang,Balikpapan,Delivered,2024-01-18,2024-01-22,14,82331,2024-01-22,4.0,0.0,False
+SHP100467,3,Balikpapan,Batam,Delivered,2024-04-20,2024-04-26,13,75384,2024-04-28,8.0,2.0,True
+SHP100051,7,Batam,Yogyakarta,Delivered,2024-03-21,2024-03-26,11,101705,2024-03-30,9.0,4.0,True
+SHP100453,13,Palembang,Yogyakarta,Delivered,2024-01-30,2024-02-09,2,26343,2024-02-09,10.0,0.0,False
+SHP100858,12,Manado,Denpasar,Delivered,2024-04-30,2024-05-06,9,67075,2024-05-10,10.0,4.0,True
+SHP100539,15,Denpasar,Padang,Cancelled,2024-02-19,2024-02-28,19,102488,,,,False
+SHP100527,10,Semarang,Padang,Delivered,2024-02-20,2024-02-25,5,43699,2024-03-01,10.0,5.0,True
+SHP100604,7,Surabaya,Manado,Delivered,2024-04-16,2024-04-22,4,37557,2024-04-21,5.0,-1.0,False
+SHP100570,15,Yogyakarta,Makassar,In Transit,2024-05-09,2024-05-18,7,48160,,,,False
+SHP100547,12,Denpasar,Medan,Delivered,2024-06-25,2024-06-27,20,117725,2024-06-30,5.0,3.0,True
+SHP100734,9,Manado,Balikpapan,Delivered,2024-01-04,2024-01-13,19,150962,2024-01-17,13.0,4.0,True
+SHP100490,1,Denpasar,Semarang,Pending,2024-06-22,2024-06-24,8,47434,,,,False
+SHP100109,7,Balikpapan,Denpasar,Pending,2024-01-28,2024-01-30,1,20222,,,,False
+SHP100917,12,Semarang,Makassar,Pending,2024-06-01,2024-06-06,6,59145,,,,False
+SHP100655,12,Yogyakarta,Palembang,In Transit,2024-04-28,2024-05-07,20,157469,,,,False
+SHP100601,5,Pontianak,Yogyakarta,Delivered,2024-06-29,2024-07-07,9,56263,2024-07-07,8.0,0.0,False
+SHP100660,2,Batam,Padang,Delivered,2024-03-24,2024-03-29,11,64513,2024-03-27,3.0,-2.0,False
+SHP100031,12,Jakarta,Medan,Delivered,2024-03-03,2024-03-08,9,63948,2024-03-07,4.0,-1.0,False
+SHP100777,5,Makassar,Medan,Delivered,2024-06-01,2024-06-07,17,107579,2024-06-10,9.0,3.0,True
+SHP100884,3,Yogyakarta,Padang,In Transit,2024-06-04,2024-06-05,20,150335,,,,False
+SHP100516,3,Denpasar,Padang,Delivered,2024-03-13,2024-03-14,16,106300,2024-03-14,1.0,0.0,False
+SHP100481,7,Balikpapan,Surabaya,In Transit,2024-04-13,2024-04-20,14,85288,,,,False
+SHP100696,2,Pontianak,Bandung,Delivered,2024-04-04,2024-04-05,9,68134,2024-04-05,1.0,0.0,False
+SHP100602,6,Banjarmasin,Semarang,Pending,2024-02-24,2024-03-05,4,45548,,,,False
+SHP100477,8,Semarang,Surabaya,Delivered,2024-03-20,2024-03-22,11,61279,2024-03-21,1.0,-1.0,False
+SHP100790,2,Denpasar,Yogyakarta,Cancelled,2024-06-25,2024-06-30,10,66898,,,,False
+SHP100514,14,Banjarmasin,Manado,Delivered,2024-06-17,2024-06-26,3,31920,2024-06-26,9.0,0.0,False
+SHP100174,15,Batam,Denpasar,Delivered,2024-01-16,2024-01-25,9,74187,2024-01-24,8.0,-1.0,False
+SHP100961,11,Jakarta,Medan,Delivered,2024-04-22,2024-04-28,15,84846,2024-04-28,6.0,0.0,False
+SHP100549,12,Batam,Balikpapan,Delivered,2024-01-28,2024-02-07,15,77633,2024-02-06,9.0,-1.0,False
+SHP100817,1,Medan,Semarang,Delivered,2024-03-19,2024-03-21,2,25901,2024-03-19,0.0,-2.0,False
+SHP100327,3,Denpasar,Palembang,Pending,2024-06-05,2024-06-09,18,88184,,,,False
+SHP100761,10,Manado,Padang,Delivered,2024-04-28,2024-04-30,9,55336,2024-04-29,1.0,-1.0,False
+SHP100978,7,Banjarmasin,Batam,Delivered,2024-05-27,2024-06-04,18,105635,2024-06-04,8.0,0.0,False
+SHP100755,7,Balikpapan,Banjarmasin,In Transit,2024-03-23,2024-03-29,9,64627,,,,False
+SHP100215,10,Bandung,Manado,Delivered,2024-05-17,2024-05-22,5,47049,2024-05-22,5.0,0.0,False
+SHP100334,7,Yogyakarta,Padang,Delivered,2024-06-18,2024-06-21,9,56130,2024-06-21,3.0,0.0,False
+SHP100423,8,Pontianak,Makassar,Pending,2024-01-07,2024-01-13,16,88553,,,,False
+SHP100667,11,Surabaya,Denpasar,Delivered,2024-04-17,2024-04-19,1,18371,2024-04-24,7.0,5.0,True
+SHP100367,3,Makassar,Denpasar,Delivered,2024-05-21,2024-05-26,19,136804,2024-05-25,4.0,-1.0,False
+SHP100290,2,Medan,Manado,Delivered,2024-05-13,2024-05-15,5,35493,2024-05-14,1.0,-1.0,False
+SHP100800,7,Balikpapan,Makassar,Delivered,2024-06-26,2024-06-30,15,121852,2024-06-28,2.0,-2.0,False
+SHP100465,7,Medan,Batam,Cancelled,2024-02-20,2024-02-25,16,82737,,,,False
+SHP100086,8,Manado,Pontianak,Delivered,2024-06-01,2024-06-08,4,40834,2024-06-07,6.0,-1.0,False
+SHP100749,12,Semarang,Banjarmasin,Delivered,2024-05-17,2024-05-21,17,137058,2024-05-20,3.0,-1.0,False
+SHP100280,2,Manado,Medan,In Transit,2024-03-04,2024-03-13,11,76745,,,,False
+SHP100088,2,Manado,Balikpapan,Delivered,2024-05-15,2024-05-21,16,109623,2024-05-21,6.0,0.0,False
+SHP100381,4,Palembang,Jakarta,Delivered,2024-02-07,2024-02-10,2,24687,2024-02-08,1.0,-2.0,False
+SHP100677,13,Palembang,Makassar,Delivered,2024-01-18,2024-01-20,13,79078,2024-01-20,2.0,0.0,False
+SHP100447,6,Pontianak,Surabaya,Delivered,2024-04-21,2024-04-23,7,62928,2024-04-27,6.0,4.0,True
+SHP100883,3,Denpasar,Batam,Cancelled,2024-04-16,2024-04-21,15,107342,,,,False
+SHP100436,3,Balikpapan,Batam,Delivered,2024-05-17,2024-05-22,5,40794,2024-05-21,4.0,-1.0,False
+SHP100059,9,Jakarta,Semarang,In Transit,2024-03-08,2024-03-17,15,107828,,,,False
+SHP100970,13,Balikpapan,Padang,Delivered,2024-01-24,2024-02-02,8,52565,2024-02-02,9.0,0.0,False
+SHP100273,1,Palembang,Balikpapan,Delivered,2024-06-01,2024-06-02,8,65972,2024-06-01,0.0,-1.0,False
+SHP100439,1,Balikpapan,Bandung,Delivered,2024-01-30,2024-02-05,1,21152,2024-02-04,5.0,-1.0,False
+SHP100867,6,Padang,Surabaya,Delivered,2024-01-17,2024-01-20,16,111422,2024-01-23,6.0,3.0,True
+SHP100331,9,Batam,Padang,Delivered,2024-06-19,2024-06-20,20,117819,2024-06-23,4.0,3.0,True
+SHP100023,8,Jakarta,Makassar,Delivered,2024-06-28,2024-07-08,9,53847,2024-07-12,14.0,4.0,True
+SHP100782,15,Denpasar,Medan,In Transit,2024-05-12,2024-05-16,12,75838,,,,False
+SHP100482,2,Banjarmasin,Padang,Delivered,2024-06-27,2024-07-05,1,19669,2024-07-05,8.0,0.0,False
+SHP100445,14,Batam,Manado,Delivered,2024-01-28,2024-02-05,8,71667,2024-02-04,7.0,-1.0,False
+SHP100479,15,Yogyakarta,Denpasar,Delivered,2024-04-14,2024-04-18,3,30353,2024-04-18,4.0,0.0,False
+SHP100218,9,Palembang,Pontianak,Delivered,2024-04-18,2024-04-28,9,77373,2024-04-27,9.0,-1.0,False
+SHP100344,15,Banjarmasin,Bandung,Delivered,2024-06-03,2024-06-13,11,72729,2024-06-18,15.0,5.0,True
+SHP100113,8,Makassar,Padang,Delivered,2024-05-09,2024-05-12,13,90184,2024-05-11,2.0,-1.0,False
+SHP100633,7,Jakarta,Surabaya,Delivered,2024-05-04,2024-05-13,17,127262,2024-05-11,7.0,-2.0,False
+SHP100966,6,Pontianak,Makassar,Cancelled,2024-03-23,2024-03-26,5,50226,,,,False
+SHP100925,6,Surabaya,Batam,Delivered,2024-06-28,2024-06-29,12,93777,2024-06-28,0.0,-1.0,False
+SHP100054,3,Batam,Manado,Delivered,2024-05-07,2024-05-14,1,22265,2024-05-14,7.0,0.0,False
+SHP100628,4,Banjarmasin,Pontianak,Delivered,2024-02-26,2024-03-07,14,78415,2024-03-09,12.0,2.0,True
+SHP100535,1,Palembang,Medan,Pending,2024-04-26,2024-05-03,1,23093,,,,False
+SHP100890,1,Surabaya,Bandung,Pending,2024-04-25,2024-04-30,8,76581,,,,False
+SHP100184,11,Surabaya,Manado,In Transit,2024-05-04,2024-05-09,20,136716,,,,False
+SHP100352,4,Surabaya,Padang,Delivered,2024-05-05,2024-05-14,15,125582,2024-05-18,13.0,4.0,True
+SHP100049,3,Bandung,Jakarta,In Transit,2024-02-24,2024-02-27,10,58736,,,,False
+SHP100141,3,Banjarmasin,Pontianak,Delivered,2024-05-01,2024-05-06,15,116636,2024-05-05,4.0,-1.0,False
+SHP100198,4,Banjarmasin,Bandung,Delivered,2024-04-20,2024-04-25,8,61071,2024-04-23,3.0,-2.0,False
+SHP100192,3,Yogyakarta,Balikpapan,In Transit,2024-05-01,2024-05-07,10,66270,,,,False
+SHP100076,7,Padang,Makassar,Cancelled,2024-01-29,2024-02-08,14,74298,,,,False
+SHP100893,15,Makassar,Pontianak,Pending,2024-05-30,2024-06-06,11,82289,,,,False
+SHP100010,3,Padang,Jakarta,In Transit,2024-02-29,2024-03-05,18,109797,,,,False
+SHP100533,10,Yogyakarta,Pontianak,In Transit,2024-06-05,2024-06-08,14,116544,,,,False
+SHP100982,5,Pontianak,Manado,Pending,2024-05-12,2024-05-14,8,73932,,,,False
+SHP100694,10,Makassar,Bandung,Delivered,2024-06-28,2024-07-07,1,21076,2024-07-05,7.0,-2.0,False
+SHP100841,3,Jakarta,Bandung,Delivered,2024-03-18,2024-03-27,3,35712,2024-03-30,12.0,3.0,True
+SHP100554,13,Semarang,Batam,Delivered,2024-05-12,2024-05-17,10,89704,2024-05-17,5.0,0.0,False
+SHP100405,8,Surabaya,Padang,In Transit,2024-03-26,2024-04-01,19,165046,,,,False
+SHP100758,15,Bandung,Denpasar,Delivered,2024-03-12,2024-03-21,13,80127,2024-03-25,13.0,4.0,True
+SHP100299,8,Balikpapan,Surabaya,Pending,2024-02-03,2024-02-11,3,32475,,,,False
+SHP100398,1,Bandung,Palembang,Delivered,2024-02-09,2024-02-11,20,156039,2024-02-11,2.0,0.0,False
+SHP100096,15,Semarang,Surabaya,In Transit,2024-03-09,2024-03-15,13,77906,,,,False
+SHP100083,1,Bandung,Medan,Cancelled,2024-01-17,2024-01-23,18,152251,,,,False
+SHP100440,1,Jakarta,Balikpapan,Delivered,2024-03-07,2024-03-09,19,161550,2024-03-11,4.0,2.0,True
+SHP100475,8,Palembang,Balikpapan,Delivered,2024-03-17,2024-03-20,17,104177,2024-03-18,1.0,-2.0,False
+SHP100976,1,Balikpapan,Semarang,Delivered,2024-06-21,2024-07-01,5,53633,2024-06-30,9.0,-1.0,False
+SHP100427,5,Pontianak,Medan,Delivered,2024-03-25,2024-04-04,9,60533,2024-04-09,15.0,5.0,True
+SHP100462,15,Batam,Banjarmasin,Delivered,2024-05-17,2024-05-22,17,97961,2024-05-22,5.0,0.0,False
+SHP100178,5,Batam,Bandung,Delivered,2024-03-25,2024-03-31,15,116226,2024-03-29,4.0,-2.0,False
+SHP100809,2,Medan,Padang,Delivered,2024-03-29,2024-04-03,19,129734,2024-04-05,7.0,2.0,True
+SHP100305,5,Batam,Pontianak,Delivered,2024-01-19,2024-01-25,9,61672,2024-01-24,5.0,-1.0,False
+SHP100158,2,Semarang,Manado,Delivered,2024-05-12,2024-05-14,11,72821,2024-05-14,2.0,0.0,False
+SHP100670,3,Padang,Medan,Delivered,2024-04-30,2024-05-09,18,97155,2024-05-07,7.0,-2.0,False
+SHP100943,15,Batam,Balikpapan,Delivered,2024-01-19,2024-01-23,18,117920,2024-01-27,8.0,4.0,True
+SHP100237,9,Makassar,Medan,Delivered,2024-02-24,2024-03-01,12,97111,2024-03-03,8.0,2.0,True
+SHP100828,12,Semarang,Surabaya,Delivered,2024-02-25,2024-02-26,17,147575,2024-02-27,2.0,1.0,True
+SHP100501,9,Palembang,Yogyakarta,In Transit,2024-04-20,2024-04-30,12,72291,,,,False
+SHP100243,9,Medan,Semarang,Delivered,2024-04-09,2024-04-16,16,104490,2024-04-20,11.0,4.0,True
+SHP100231,12,Manado,Banjarmasin,Delivered,2024-01-24,2024-02-02,10,81172,2024-02-01,8.0,-1.0,False
+SHP100873,13,Padang,Surabaya,Delivered,2024-06-24,2024-06-28,8,48046,2024-07-01,7.0,3.0,True
+SHP100932,13,Batam,Semarang,Delivered,2024-05-30,2024-06-06,8,76478,2024-06-06,7.0,0.0,False
+SHP100078,13,Palembang,Batam,Pending,2024-06-09,2024-06-12,12,68866,,,,False
+SHP100913,4,Jakarta,Palembang,Delivered,2024-01-01,2024-01-03,19,168477,2024-01-01,0.0,-2.0,False
+SHP100631,14,Batam,Banjarmasin,In Transit,2024-03-10,2024-03-18,16,126244,,,,False
+SHP100292,12,Medan,Bandung,Cancelled,2024-03-07,2024-03-17,11,84868,,,,False
+SHP100581,15,Balikpapan,Banjarmasin,Delivered,2024-05-13,2024-05-22,15,113391,2024-05-25,12.0,3.0,True
+SHP100493,6,Palembang,Balikpapan,Delivered,2024-05-25,2024-05-28,5,36741,2024-05-31,6.0,3.0,True
+SHP100039,11,Bandung,Padang,Delivered,2024-02-26,2024-03-02,13,89047,2024-03-05,8.0,3.0,True
+SHP100030,1,Denpasar,Palembang,In Transit,2024-05-16,2024-05-19,19,158374,,,,False
+SHP100757,14,Pontianak,Makassar,Delivered,2024-01-23,2024-01-25,19,165923,2024-01-23,0.0,-2.0,False
+SHP100136,12,Batam,Balikpapan,Delivered,2024-01-18,2024-01-25,4,30282,2024-01-26,8.0,1.0,True
+SHP100260,8,Palembang,Surabaya,Delivered,2024-03-21,2024-03-29,6,57979,2024-03-31,10.0,2.0,True
+SHP100585,1,Jakarta,Makassar,Delivered,2024-03-11,2024-03-17,20,149771,2024-03-17,6.0,0.0,False
+SHP100589,15,Denpasar,Bandung,Delivered,2024-03-01,2024-03-04,3,31245,2024-03-05,4.0,1.0,True
+SHP100786,7,Palembang,Bandung,Delivered,2024-04-14,2024-04-20,11,65060,2024-04-18,4.0,-2.0,False
+SHP100003,15,Pontianak,Denpasar,Delivered,2024-06-29,2024-07-04,4,36779,2024-07-02,3.0,-2.0,False
+SHP100296,4,Padang,Semarang,Delivered,2024-03-02,2024-03-08,8,66948,2024-03-08,6.0,0.0,False
+SHP100265,1,Padang,Pontianak,In Transit,2024-05-08,2024-05-18,19,148334,,,,False
+SHP100247,8,Banjarmasin,Jakarta,Delivered,2024-04-18,2024-04-25,11,91345,2024-04-25,7.0,0.0,False
+SHP100992,10,Pontianak,Surabaya,In Transit,2024-04-30,2024-05-05,6,58988,,,,False
+SHP100723,1,Padang,Pontianak,Delivered,2024-05-24,2024-05-27,6,39369,2024-05-30,6.0,3.0,True
+SHP100342,2,Padang,Manado,Delivered,2024-03-10,2024-03-16,4,36517,2024-03-16,6.0,0.0,False
+SHP100903,10,Padang,Yogyakarta,In Transit,2024-02-24,2024-02-29,8,53196,,,,False
+SHP100058,5,Semarang,Batam,In Transit,2024-02-06,2024-02-14,4,33654,,,,False
+SHP100063,9,Banjarmasin,Makassar,Delivered,2024-05-17,2024-05-27,19,141600,2024-05-28,11.0,1.0,True
+SHP100664,1,Denpasar,Bandung,Pending,2024-03-27,2024-04-06,11,96394,,,,False
+SHP100328,4,Jakarta,Padang,Delivered,2024-06-16,2024-06-22,1,18471,2024-06-24,8.0,2.0,True
+SHP100100,2,Medan,Pontianak,In Transit,2024-03-16,2024-03-19,8,76380,,,,False
+SHP100497,7,Padang,Medan,Delivered,2024-01-01,2024-01-06,13,78420,2024-01-08,7.0,2.0,True
+SHP100721,4,Bandung,Yogyakarta,Delivered,2024-06-02,2024-06-05,1,18896,2024-06-04,2.0,-1.0,False
+SHP100210,11,Bandung,Jakarta,Delivered,2024-03-27,2024-04-06,9,71820,2024-04-10,14.0,4.0,True
+SHP100362,7,Banjarmasin,Jakarta,Delivered,2024-02-03,2024-02-12,20,127645,2024-02-12,9.0,0.0,False
+SHP100750,13,Semarang,Medan,Delivered,2024-05-03,2024-05-13,10,90268,2024-05-12,9.0,-1.0,False
+SHP100168,6,Banjarmasin,Manado,Delivered,2024-02-28,2024-03-04,1,19785,2024-03-03,4.0,-1.0,False
+SHP100289,14,Semarang,Pontianak,Delivered,2024-05-24,2024-05-31,4,34188,2024-05-30,6.0,-1.0,False
+SHP100971,1,Padang,Bandung,In Transit,2024-02-28,2024-03-01,1,21720,,,,False
+SHP100199,14,Padang,Medan,Delivered,2024-03-31,2024-04-01,8,74475,2024-03-31,0.0,-1.0,False
+SHP100066,2,Surabaya,Bandung,In Transit,2024-04-19,2024-04-21,10,72354,,,,False
+SHP100902,12,Denpasar,Balikpapan,Delivered,2024-06-09,2024-06-18,4,37052,2024-06-18,9.0,0.0,False
+SHP100067,10,Jakarta,Denpasar,Delivered,2024-05-29,2024-06-03,17,114855,2024-06-02,4.0,-1.0,False
+SHP100429,1,Manado,Semarang,Delivered,2024-01-18,2024-01-27,11,58619,2024-01-27,9.0,0.0,False
+SHP100012,11,Palembang,Pontianak,Delivered,2024-04-07,2024-04-09,11,61709,2024-04-14,7.0,5.0,True
+SHP100319,4,Bandung,Padang,Delivered,2024-03-03,2024-03-06,17,94264,2024-03-06,3.0,0.0,False
+SHP100914,10,Yogyakarta,Medan,Pending,2024-04-14,2024-04-16,12,64798,,,,False
+SHP100449,12,Medan,Semarang,Delivered,2024-03-21,2024-03-30,1,19727,2024-03-28,7.0,-2.0,False
+SHP100622,5,Bandung,Manado,In Transit,2024-03-17,2024-03-18,19,98401,,,,False
+SHP100595,13,Batam,Banjarmasin,Delivered,2024-02-05,2024-02-07,15,129984,2024-02-07,2.0,0.0,False
+SHP100697,3,Surabaya,Pontianak,In Transit,2024-02-12,2024-02-18,18,133075,,,,False
+SHP100307,2,Pontianak,Batam,Delivered,2024-04-27,2024-05-04,19,152024,2024-05-09,12.0,5.0,True
+SHP100404,8,Yogyakarta,Jakarta,Delivered,2024-02-15,2024-02-22,6,44170,2024-02-22,7.0,0.0,False
+SHP100346,10,Palembang,Yogyakarta,In Transit,2024-03-28,2024-03-29,3,29794,,,,False
+SHP100922,9,Makassar,Palembang,In Transit,2024-03-14,2024-03-22,10,62323,,,,False
+SHP100256,8,Batam,Pontianak,Delivered,2024-01-15,2024-01-22,11,73178,2024-01-20,5.0,-2.0,False
+SHP100716,9,Makassar,Yogyakarta,Delivered,2024-03-03,2024-03-06,1,20110,2024-03-05,2.0,-1.0,False
+SHP100673,8,Bandung,Jakarta,Cancelled,2024-01-14,2024-01-19,18,155901,,,,False
+SHP100361,11,Makassar,Yogyakarta,Delivered,2024-03-26,2024-04-03,18,129158,2024-04-03,8.0,0.0,False
+SHP100235,1,Denpasar,Medan,Delivered,2024-05-04,2024-05-12,6,40367,2024-05-15,11.0,3.0,True
+SHP100518,15,Manado,Surabaya,In Transit,2024-06-18,2024-06-25,19,166816,,,,False
+SHP100002,13,Pontianak,Banjarmasin,In Transit,2024-02-19,2024-02-27,15,92385,,,,False
+SHP100657,4,Palembang,Batam,Delivered,2024-01-13,2024-01-16,1,22392,2024-01-15,2.0,-1.0,False
+SHP100548,12,Surabaya,Medan,Pending,2024-01-02,2024-01-08,7,50633,,,,False
+SHP100740,14,Jakarta,Balikpapan,Delivered,2024-06-11,2024-06-21,12,94832,2024-06-21,10.0,0.0,False
+SHP100799,6,Banjarmasin,Denpasar,In Transit,2024-04-13,2024-04-18,7,51295,,,,False
+SHP100588,1,Medan,Pontianak,Delivered,2024-03-14,2024-03-16,20,151916,2024-03-20,6.0,4.0,True
+SHP100306,4,Medan,Makassar,Pending,2024-01-03,2024-01-04,2,28208,,,,False
+SHP100499,3,Medan,Palembang,Pending,2024-03-14,2024-03-21,3,30619,,,,False
+SHP100823,9,Semarang,Banjarmasin,Delivered,2024-01-31,2024-02-10,15,122409,2024-02-09,9.0,-1.0,False
+SHP100877,6,Manado,Medan,Delivered,2024-05-24,2024-05-30,17,84873,2024-05-31,7.0,1.0,True
+SHP100370,6,Manado,Padang,In Transit,2024-05-23,2024-05-24,14,102102,,,,False
+SHP100394,3,Jakarta,Denpasar,Delivered,2024-03-31,2024-04-09,8,52963,2024-04-09,9.0,0.0,False
+SHP100298,11,Jakarta,Manado,Delivered,2024-04-11,2024-04-19,5,44769,2024-04-20,9.0,1.0,True
+SHP100613,14,Pontianak,Jakarta,Delivered,2024-04-09,2024-04-19,13,101656,2024-04-19,10.0,0.0,False
+SHP100827,6,Palembang,Denpasar,Delivered,2024-02-19,2024-02-26,7,62533,2024-02-26,7.0,0.0,False
+SHP100294,6,Medan,Banjarmasin,In Transit,2024-06-20,2024-06-25,8,52959,,,,False
+SHP100576,5,Jakarta,Medan,In Transit,2024-04-25,2024-05-01,2,23629,,,,False
+SHP100486,2,Pontianak,Padang,Cancelled,2024-02-19,2024-02-24,19,119614,,,,False
+SHP100833,6,Balikpapan,Semarang,Pending,2024-06-01,2024-06-08,3,33780,,,,False
+SHP100312,1,Bandung,Surabaya,Delivered,2024-05-17,2024-05-19,20,100126,2024-05-17,0.0,-2.0,False
+SHP100458,3,Padang,Palembang,Cancelled,2024-01-12,2024-01-22,6,58706,,,,False
+SHP100652,7,Palembang,Jakarta,Delivered,2024-06-13,2024-06-21,7,46739,2024-06-19,6.0,-2.0,False
+SHP100351,9,Surabaya,Palembang,Delivered,2024-05-09,2024-05-16,7,65319,2024-05-15,6.0,-1.0,False
+SHP100530,13,Jakarta,Makassar,In Transit,2024-01-12,2024-01-13,6,41329,,,,False
+SHP100896,6,Makassar,Denpasar,Pending,2024-05-25,2024-06-01,2,27294,,,,False
+SHP100947,8,Padang,Balikpapan,Cancelled,2024-06-01,2024-06-11,17,95725,,,,False
+SHP100106,15,Pontianak,Makassar,Delivered,2024-05-08,2024-05-14,12,95984,2024-05-12,4.0,-2.0,False
+SHP100590,2,Jakarta,Banjarmasin,Delivered,2024-03-10,2024-03-15,15,117997,2024-03-19,9.0,4.0,True
+SHP100055,5,Bandung,Palembang,Delivered,2024-04-11,2024-04-19,12,100129,2024-04-19,8.0,0.0,False
+SHP100213,12,Batam,Palembang,Delivered,2024-02-19,2024-02-21,17,85856,2024-02-25,6.0,4.0,True
+SHP100120,10,Semarang,Balikpapan,Delivered,2024-05-15,2024-05-25,13,74656,2024-05-24,9.0,-1.0,False
+SHP100494,7,Padang,Surabaya,Cancelled,2024-03-18,2024-03-28,16,127142,,,,False
+SHP100025,14,Padang,Batam,Delivered,2024-06-14,2024-06-22,5,48988,2024-06-21,7.0,-1.0,False
+SHP100355,2,Semarang,Medan,In Transit,2024-01-24,2024-02-01,5,36456,,,,False
+SHP100044,15,Padang,Banjarmasin,Pending,2024-01-09,2024-01-11,12,79885,,,,False
+SHP100587,10,Jakarta,Semarang,Delivered,2024-01-20,2024-01-24,19,148680,2024-01-22,2.0,-2.0,False
+SHP100737,14,Jakarta,Bandung,In Transit,2024-01-28,2024-02-05,5,43622,,,,False
+SHP100333,8,Semarang,Palembang,Delivered,2024-03-17,2024-03-20,11,70886,2024-03-25,8.0,5.0,True
+SHP100448,3,Palembang,Manado,Delivered,2024-03-29,2024-04-04,6,55091,2024-04-09,11.0,5.0,True
+SHP100359,5,Manado,Banjarmasin,Delivered,2024-01-12,2024-01-22,20,155162,2024-01-20,8.0,-2.0,False
+SHP100542,12,Balikpapan,Padang,Delivered,2024-05-06,2024-05-13,15,90079,2024-05-11,5.0,-2.0,False
+SHP100425,11,Denpasar,Jakarta,Delivered,2024-02-19,2024-02-28,10,86129,2024-02-28,9.0,0.0,False
+SHP100525,3,Banjarmasin,Jakarta,Delivered,2024-03-20,2024-03-23,12,106079,2024-03-22,2.0,-1.0,False
+SHP100277,1,Denpasar,Banjarmasin,Delivered,2024-04-13,2024-04-15,4,46614,2024-04-19,6.0,4.0,True
+SHP100864,9,Surabaya,Denpasar,Delivered,2024-03-05,2024-03-08,8,53377,2024-03-07,2.0,-1.0,False
+SHP100451,5,Batam,Semarang,In Transit,2024-06-04,2024-06-06,7,70308,,,,False
+SHP100420,13,Yogyakarta,Jakarta,Delivered,2024-03-19,2024-03-21,16,136202,2024-03-19,0.0,-2.0,False
+SHP100718,3,Semarang,Bandung,Delivered,2024-06-27,2024-07-04,14,116560,2024-07-04,7.0,0.0,False
+SHP100741,4,Banjarmasin,Palembang,Delivered,2024-04-27,2024-05-05,10,65616,2024-05-03,6.0,-2.0,False
+SHP100889,9,Palembang,Banjarmasin,Delivered,2024-04-07,2024-04-13,14,101925,2024-04-17,10.0,4.0,True
+SHP100209,7,Pontianak,Manado,Delivered,2024-04-13,2024-04-17,15,118710,2024-04-20,7.0,3.0,True
+SHP100377,8,Balikpapan,Palembang,Delivered,2024-01-10,2024-01-12,3,35813,2024-01-17,7.0,5.0,True
+SHP100915,8,Balikpapan,Medan,Delivered,2024-04-25,2024-05-01,7,68898,2024-04-29,4.0,-2.0,False
+SHP100722,2,Makassar,Palembang,Pending,2024-01-31,2024-02-10,6,57213,,,,False
+SHP100507,9,Padang,Semarang,Delivered,2024-04-23,2024-04-25,12,77774,2024-04-24,1.0,-1.0,False
+SHP100060,7,Palembang,Makassar,Cancelled,2024-02-05,2024-02-08,9,68225,,,,False
+SHP100371,8,Banjarmasin,Batam,Delivered,2024-01-03,2024-01-11,14,108731,2024-01-14,11.0,3.0,True
+SHP100543,5,Medan,Palembang,Delivered,2024-04-12,2024-04-13,7,66028,2024-04-12,0.0,-1.0,False
+SHP100092,10,Yogyakarta,Banjarmasin,Cancelled,2024-06-23,2024-06-30,11,92447,,,,False
+SHP100665,13,Batam,Banjarmasin,In Transit,2024-04-07,2024-04-08,18,154261,,,,False
+SHP100824,13,Bandung,Balikpapan,Delivered,2024-05-17,2024-05-21,13,82850,2024-05-24,7.0,3.0,True
+SHP100996,5,Denpasar,Surabaya,Delivered,2024-03-23,2024-03-29,11,61656,2024-04-02,10.0,4.0,True
+SHP100275,1,Surabaya,Balikpapan,In Transit,2024-06-21,2024-06-26,10,64885,,,,False
+SHP100752,3,Banjarmasin,Jakarta,Delivered,2024-04-21,2024-04-26,16,137306,2024-04-26,5.0,0.0,False
+SHP100309,6,Surabaya,Manado,Delivered,2024-05-24,2024-05-28,7,46229,2024-05-30,6.0,2.0,True
+SHP100182,14,Balikpapan,Yogyakarta,In Transit,2024-03-12,2024-03-17,9,82749,,,,False
+SHP100820,1,Yogyakarta,Surabaya,Delivered,2024-01-31,2024-02-09,1,23327,2024-02-14,14.0,5.0,True
+SHP100557,15,Bandung,Semarang,Delivered,2024-05-22,2024-05-23,10,85787,2024-05-23,1.0,0.0,False
+SHP100110,12,Surabaya,Palembang,Delivered,2024-06-09,2024-06-18,4,44199,2024-06-22,13.0,4.0,True
+SHP100428,14,Makassar,Balikpapan,In Transit,2024-03-12,2024-03-21,17,98061,,,,False
+SHP100852,15,Denpasar,Padang,Delivered,2024-06-12,2024-06-18,9,83912,2024-06-16,4.0,-2.0,False
+SHP100605,3,Manado,Denpasar,Delivered,2024-04-14,2024-04-20,1,20688,2024-04-20,6.0,0.0,False
+SHP100969,1,Pontianak,Surabaya,Delivered,2024-01-07,2024-01-14,1,21269,2024-01-12,5.0,-2.0,False
+SHP100666,3,Makassar,Bandung,Delivered,2024-03-12,2024-03-18,3,36881,2024-03-17,5.0,-1.0,False
+SHP100323,3,Medan,Pontianak,In Transit,2024-04-22,2024-05-01,20,123245,,,,False
+SHP100261,9,Batam,Medan,Delivered,2024-01-15,2024-01-16,18,142091,2024-01-16,1.0,0.0,False
+SHP100974,3,Yogyakarta,Makassar,Delivered,2024-05-30,2024-06-07,3,32583,2024-06-06,7.0,-1.0,False
+SHP100528,15,Yogyakarta,Jakarta,Delivered,2024-02-07,2024-02-13,12,108682,2024-02-13,6.0,0.0,False
+SHP100813,6,Makassar,Jakarta,Delivered,2024-03-31,2024-04-07,15,113334,2024-04-06,6.0,-1.0,False
+SHP100137,8,Denpasar,Bandung,Delivered,2024-05-16,2024-05-18,6,62123,2024-05-18,2.0,0.0,False
+SHP100538,6,Batam,Padang,Delivered,2024-05-27,2024-06-05,9,53292,2024-06-03,7.0,-2.0,False
+SHP100835,11,Batam,Makassar,Delivered,2024-01-26,2024-01-28,17,130402,2024-01-30,4.0,2.0,True
+SHP100380,8,Palembang,Pontianak,Delivered,2024-05-21,2024-05-31,4,38016,2024-05-29,8.0,-2.0,False
+SHP100620,14,Surabaya,Batam,In Transit,2024-01-02,2024-01-10,9,75916,,,,False
+SHP100599,7,Yogyakarta,Medan,In Transit,2024-06-26,2024-07-06,16,104518,,,,False
+SHP100029,5,Manado,Denpasar,Delivered,2024-02-13,2024-02-22,11,84647,2024-02-22,9.0,0.0,False
+SHP100165,3,Bandung,Palembang,In Transit,2024-01-06,2024-01-09,9,72899,,,,False
+SHP100350,10,Padang,Makassar,Delivered,2024-03-08,2024-03-11,13,98537,2024-03-10,2.0,-1.0,False
+SHP100332,1,Palembang,Manado,Delivered,2024-05-21,2024-05-26,10,62932,2024-05-26,5.0,0.0,False
+SHP100859,14,Palembang,Yogyakarta,Delivered,2024-05-02,2024-05-05,13,87652,2024-05-05,3.0,0.0,False
+SHP100756,12,Pontianak,Makassar,Delivered,2024-03-03,2024-03-12,6,54001,2024-03-12,9.0,0.0,False
+SHP100365,3,Surabaya,Medan,In Transit,2024-02-11,2024-02-12,9,57332,,,,False
+SHP100626,5,Jakarta,Banjarmasin,Delivered,2024-05-19,2024-05-21,9,65701,2024-05-19,0.0,-2.0,False
+SHP100065,14,Balikpapan,Manado,Delivered,2024-05-29,2024-06-01,5,37846,2024-05-30,1.0,-2.0,False
+SHP100792,12,Yogyakarta,Pontianak,Cancelled,2024-06-14,2024-06-17,19,150349,,,,False
+SHP100923,4,Yogyakarta,Pontianak,Delivered,2024-06-29,2024-07-05,5,44635,2024-07-04,5.0,-1.0,False
+SHP100254,10,Surabaya,Banjarmasin,Delivered,2024-03-16,2024-03-21,16,86806,2024-03-20,4.0,-1.0,False
+SHP100743,6,Palembang,Banjarmasin,Delivered,2024-04-21,2024-04-26,13,114722,2024-04-25,4.0,-1.0,False
+SHP100221,12,Surabaya,Balikpapan,Delivered,2024-04-28,2024-04-30,18,89778,2024-04-29,1.0,-1.0,False
+SHP100390,14,Batam,Semarang,In Transit,2024-06-23,2024-07-03,9,84095,,,,False
+SHP100713,4,Yogyakarta,Bandung,Delivered,2024-05-31,2024-06-01,11,89363,2024-05-31,0.0,-1.0,False
+SHP100798,13,Padang,Yogyakarta,Delivered,2024-02-26,2024-02-27,14,86648,2024-03-01,4.0,3.0,True
+SHP100707,8,Manado,Semarang,Delivered,2024-05-27,2024-05-29,18,97572,2024-05-30,3.0,1.0,True
+SHP100249,9,Batam,Balikpapan,In Transit,2024-05-22,2024-05-27,6,55225,,,,False
+SHP100597,1,Palembang,Yogyakarta,In Transit,2024-02-29,2024-03-08,9,78826,,,,False
+SHP100071,2,Balikpapan,Medan,Delivered,2024-02-05,2024-02-10,9,84727,2024-02-12,7.0,2.0,True
+SHP100094,6,Batam,Palembang,In Transit,2024-06-23,2024-06-30,4,31735,,,,False
+SHP100033,6,Batam,Manado,Delivered,2024-04-28,2024-05-06,12,94536,2024-05-11,13.0,5.0,True
+SHP100668,5,Surabaya,Batam,Delivered,2024-03-05,2024-03-11,11,57778,2024-03-11,6.0,0.0,False
+SHP100259,6,Medan,Manado,Pending,2024-01-16,2024-01-20,19,166335,,,,False
+SHP100204,15,Denpasar,Padang,Delivered,2024-06-21,2024-06-26,1,23756,2024-06-24,3.0,-2.0,False
+SHP100411,11,Palembang,Padang,Delivered,2024-06-28,2024-07-05,18,94427,2024-07-05,7.0,0.0,False
+SHP100643,10,Bandung,Padang,In Transit,2024-06-08,2024-06-09,19,124904,,,,False
+SHP100077,12,Medan,Semarang,Delivered,2024-02-09,2024-02-17,3,34163,2024-02-17,8.0,0.0,False
+SHP100084,4,Pontianak,Balikpapan,In Transit,2024-04-08,2024-04-17,5,48305,,,,False
+SHP100918,2,Balikpapan,Yogyakarta,Delivered,2024-04-30,2024-05-08,17,124588,2024-05-06,6.0,-2.0,False
+SHP100082,14,Makassar,Surabaya,Pending,2024-06-01,2024-06-07,13,79799,,,,False
+SHP100442,12,Semarang,Padang,Delivered,2024-05-28,2024-06-06,17,98263,2024-06-08,11.0,2.0,True
+SHP100464,5,Surabaya,Banjarmasin,In Transit,2024-06-20,2024-06-23,12,89408,,,,False
+SHP100504,12,Batam,Surabaya,Delivered,2024-06-16,2024-06-21,10,86463,2024-06-21,5.0,0.0,False
+SHP100732,13,Banjarmasin,Yogyakarta,In Transit,2024-06-14,2024-06-22,15,84046,,,,False
+SHP100388,13,Jakarta,Batam,Delivered,2024-04-01,2024-04-07,13,112596,2024-04-07,6.0,0.0,False
+SHP100354,1,Palembang,Surabaya,In Transit,2024-01-14,2024-01-16,8,62796,,,,False
+SHP100005,8,Banjarmasin,Yogyakarta,Pending,2024-01-12,2024-01-21,8,73756,,,,False
+SHP100310,11,Jakarta,Medan,Cancelled,2024-01-26,2024-01-28,17,105678,,,,False
+SHP100649,13,Bandung,Padang,Delivered,2024-06-18,2024-06-21,20,116287,2024-06-20,2.0,-1.0,False
+SHP100104,14,Surabaya,Medan,Delivered,2024-01-01,2024-01-10,3,30468,2024-01-10,9.0,0.0,False
+SHP100097,2,Palembang,Semarang,Pending,2024-06-13,2024-06-21,13,104575,,,,False
+SHP100584,5,Makassar,Yogyakarta,Cancelled,2024-03-02,2024-03-08,9,62190,,,,False
+SHP100720,3,Denpasar,Jakarta,Delivered,2024-06-24,2024-06-27,18,128116,2024-06-25,1.0,-2.0,False
+SHP100314,12,Balikpapan,Makassar,Delivered,2024-05-09,2024-05-19,3,33775,2024-05-17,8.0,-2.0,False
+SHP100865,8,Bandung,Medan,Delivered,2024-05-02,2024-05-10,18,100859,2024-05-08,6.0,-2.0,False
+SHP100967,11,Bandung,Batam,Delivered,2024-06-03,2024-06-11,20,170537,2024-06-15,12.0,4.0,True
+SHP100281,2,Palembang,Jakarta,In Transit,2024-05-28,2024-05-31,7,50791,,,,False
+SHP100266,10,Manado,Pontianak,Delivered,2024-05-15,2024-05-19,2,30768,2024-05-23,8.0,4.0,True
+SHP100523,15,Makassar,Batam,Delivered,2024-03-01,2024-03-06,1,20558,2024-03-06,5.0,0.0,False
+SHP100908,12,Pontianak,Palembang,Cancelled,2024-03-02,2024-03-12,7,54225,,,,False
+SHP100855,1,Jakarta,Pontianak,Delivered,2024-01-04,2024-01-08,19,89263,2024-01-06,2.0,-2.0,False
+SHP100485,10,Balikpapan,Semarang,Cancelled,2024-02-02,2024-02-08,4,42937,,,,False
+SHP100582,9,Padang,Banjarmasin,Delivered,2024-05-04,2024-05-13,6,47318,2024-05-16,12.0,3.0,True
+SHP100118,5,Semarang,Bandung,Delivered,2024-02-11,2024-02-16,10,76642,2024-02-20,9.0,4.0,True
+SHP100662,12,Palembang,Pontianak,Pending,2024-04-26,2024-05-03,2,22279,,,,False
+SHP100250,14,Palembang,Medan,Delivered,2024-06-18,2024-06-27,9,59707,2024-06-27,9.0,0.0,False
+SHP100285,5,Padang,Yogyakarta,Pending,2024-01-21,2024-01-30,12,75261,,,,False
+SHP100541,11,Denpasar,Medan,Delivered,2024-04-08,2024-04-10,2,21779,2024-04-08,0.0,-2.0,False
+SHP100009,10,Bandung,Banjarmasin,Delivered,2024-01-21,2024-01-27,2,24254,2024-01-26,5.0,-1.0,False
+SHP100409,1,Yogyakarta,Semarang,Delivered,2024-03-09,2024-03-11,5,51012,2024-03-14,5.0,3.0,True
+SHP100196,4,Semarang,Yogyakarta,Cancelled,2024-01-25,2024-01-26,11,97768,,,,False
+SHP100861,15,Denpasar,Makassar,Delivered,2024-03-28,2024-04-03,3,32583,2024-04-01,4.0,-2.0,False
+SHP100081,3,Semarang,Denpasar,Delivered,2024-04-18,2024-04-26,9,51568,2024-04-24,6.0,-2.0,False
+SHP100478,2,Palembang,Batam,Delivered,2024-06-19,2024-06-28,20,131821,2024-07-03,14.0,5.0,True
+SHP100551,7,Denpasar,Bandung,Pending,2024-02-26,2024-03-07,19,107888,,,,False
+SHP100692,10,Jakarta,Manado,Delivered,2024-02-25,2024-02-27,7,56983,2024-02-26,1.0,-1.0,False
+SHP100239,14,Makassar,Medan,Pending,2024-01-16,2024-01-24,11,93046,,,,False
+SHP100621,4,Batam,Yogyakarta,In Transit,2024-03-31,2024-04-01,4,37968,,,,False
+SHP100211,3,Batam,Denpasar,Pending,2024-01-28,2024-02-02,14,91613,,,,False
+SHP100801,14,Banjarmasin,Batam,Delivered,2024-03-03,2024-03-06,19,141946,2024-03-05,2.0,-1.0,False
+SHP100457,15,Medan,Padang,Delivered,2024-03-06,2024-03-16,6,50344,2024-03-19,13.0,3.0,True
+SHP100656,11,Surabaya,Padang,Delivered,2024-02-16,2024-02-26,15,112047,2024-02-28,12.0,2.0,True
+SHP100227,14,Balikpapan,Batam,Delivered,2024-01-13,2024-01-16,6,45836,2024-01-17,4.0,1.0,True
+SHP100986,3,Yogyakarta,Pontianak,Delivered,2024-02-16,2024-02-18,6,48633,2024-02-19,3.0,1.0,True
+SHP100682,2,Makassar,Jakarta,Delivered,2024-02-21,2024-02-28,1,20622,2024-02-26,5.0,-2.0,False
+SHP100596,5,Pontianak,Palembang,In Transit,2024-02-08,2024-02-11,10,75725,,,,False
+SHP100887,2,Padang,Balikpapan,Delivered,2024-02-27,2024-03-04,19,102156,2024-03-04,6.0,0.0,False
+SHP100177,1,Manado,Medan,Cancelled,2024-01-09,2024-01-17,13,72016,,,,False
+SHP100568,1,Palembang,Bandung,Delivered,2024-04-23,2024-05-03,17,92641,2024-05-03,10.0,0.0,False
+SHP100934,13,Medan,Denpasar,Delivered,2024-02-20,2024-02-29,2,25294,2024-02-28,8.0,-1.0,False
+SHP100583,12,Bandung,Surabaya,Delivered,2024-06-09,2024-06-13,20,117053,2024-06-16,7.0,3.0,True
+SHP100424,11,Semarang,Banjarmasin,Delivered,2024-06-17,2024-06-20,10,77704,2024-06-19,2.0,-1.0,False
+SHP100506,7,Jakarta,Bandung,In Transit,2024-04-29,2024-05-08,4,43063,,,,False
+SHP100007,5,Jakarta,Makassar,Delivered,2024-02-28,2024-03-07,12,83552,2024-03-06,7.0,-1.0,False
+SHP100728,5,Padang,Batam,Delivered,2024-06-18,2024-06-22,18,91501,2024-06-21,3.0,-1.0,False
+SHP100155,9,Batam,Palembang,Delivered,2024-06-15,2024-06-18,12,77086,2024-06-18,3.0,0.0,False
+SHP100357,14,Pontianak,Batam,Delivered,2024-04-18,2024-04-24,4,47744,2024-04-22,4.0,-2.0,False
+SHP100618,14,Jakarta,Pontianak,In Transit,2024-04-07,2024-04-12,7,44327,,,,False
+SHP100223,12,Denpasar,Yogyakarta,Delivered,2024-01-20,2024-01-26,2,24081,2024-01-25,5.0,-1.0,False
+SHP100329,7,Denpasar,Bandung,Delivered,2024-05-15,2024-05-18,13,113017,2024-05-19,4.0,1.0,True
+SHP100558,3,Manado,Yogyakarta,Delivered,2024-03-04,2024-03-10,17,102757,2024-03-08,4.0,-2.0,False
+SHP100949,2,Bandung,Makassar,In Transit,2024-03-14,2024-03-24,15,74083,,,,False
+SHP100868,5,Padang,Batam,Delivered,2024-04-12,2024-04-15,2,21928,2024-04-18,6.0,3.0,True
+SHP100907,8,Denpasar,Batam,Delivered,2024-02-10,2024-02-17,13,82138,2024-02-17,7.0,0.0,False
+SHP100634,10,Palembang,Makassar,Delivered,2024-01-08,2024-01-09,10,93142,2024-01-08,0.0,-1.0,False
+SHP100849,12,Bandung,Semarang,Delivered,2024-03-15,2024-03-21,19,97526,2024-03-23,8.0,2.0,True
+SHP100844,2,Pontianak,Padang,Delivered,2024-02-02,2024-02-03,16,109898,2024-02-03,1.0,0.0,False
+SHP100635,10,Pontianak,Medan,Delivered,2024-04-09,2024-04-17,18,141610,2024-04-16,7.0,-1.0,False
+SHP100972,2,Banjarmasin,Jakarta,Cancelled,2024-06-21,2024-06-26,5,33897,,,,False
+SHP100591,14,Medan,Semarang,Delivered,2024-03-26,2024-03-30,2,27879,2024-04-04,9.0,5.0,True
+SHP100810,5,Surabaya,Pontianak,Delivered,2024-04-18,2024-04-20,3,29428,2024-04-19,1.0,-1.0,False
+SHP100789,11,Pontianak,Denpasar,Delivered,2024-03-02,2024-03-03,14,113221,2024-03-07,5.0,4.0,True
+SHP100869,6,Surabaya,Medan,Delivered,2024-05-05,2024-05-07,8,73083,2024-05-08,3.0,1.0,True
+SHP100163,8,Banjarmasin,Palembang,Delivered,2024-01-17,2024-01-25,15,77363,2024-01-26,9.0,1.0,True
+SHP100228,11,Bandung,Padang,Cancelled,2024-06-15,2024-06-24,6,43027,,,,False
+SHP100450,9,Palembang,Denpasar,Delivered,2024-04-21,2024-04-27,15,116006,2024-04-25,4.0,-2.0,False
+SHP100814,3,Manado,Jakarta,Delivered,2024-06-28,2024-07-08,10,60634,2024-07-08,10.0,0.0,False
+SHP100212,6,Medan,Jakarta,In Transit,2024-03-04,2024-03-07,18,159659,,,,False
+SHP100854,7,Jakarta,Manado,Cancelled,2024-01-27,2024-02-02,14,124839,,,,False
+SHP100079,8,Makassar,Yogyakarta,Delivered,2024-02-10,2024-02-18,9,71405,2024-02-16,6.0,-2.0,False
+SHP100148,5,Jakarta,Pontianak,Delivered,2024-02-24,2024-03-01,2,24256,2024-03-05,10.0,4.0,True
+SHP100302,15,Makassar,Padang,Delivered,2024-03-17,2024-03-19,13,91386,2024-03-19,2.0,0.0,False
+SHP100430,12,Yogyakarta,Banjarmasin,Delivered,2024-03-12,2024-03-18,10,80912,2024-03-16,4.0,-2.0,False
+SHP100413,6,Medan,Jakarta,In Transit,2024-04-07,2024-04-12,16,129826,,,,False
+SHP100567,3,Semarang,Pontianak,Delivered,2024-03-22,2024-03-29,17,134821,2024-03-27,5.0,-2.0,False
+SHP100712,9,Yogyakarta,Medan,Delivered,2024-01-20,2024-01-29,7,69440,2024-02-01,12.0,3.0,True
+SHP100043,12,Semarang,Batam,Delivered,2024-02-28,2024-03-06,16,133227,2024-03-08,9.0,2.0,True
+SHP100432,1,Banjarmasin,Semarang,Delivered,2024-06-13,2024-06-20,4,36572,2024-06-18,5.0,-2.0,False
+SHP100133,9,Denpasar,Palembang,Delivered,2024-01-21,2024-01-26,12,72256,2024-01-30,9.0,4.0,True
+SHP100614,12,Banjarmasin,Palembang,Delivered,2024-05-29,2024-05-30,1,21726,2024-06-03,5.0,4.0,True
+SHP100311,15,Semarang,Pontianak,Delivered,2024-01-19,2024-01-27,3,36233,2024-01-26,7.0,-1.0,False
+SHP100408,1,Surabaya,Batam,Delivered,2024-03-04,2024-03-11,9,75805,2024-03-11,7.0,0.0,False
+SHP100532,10,Semarang,Balikpapan,Delivered,2024-05-01,2024-05-08,5,43094,2024-05-06,5.0,-2.0,False
+SHP100679,12,Manado,Semarang,Delivered,2024-01-11,2024-01-14,3,29060,2024-01-12,1.0,-2.0,False
+SHP100534,6,Surabaya,Palembang,Delivered,2024-01-19,2024-01-22,5,50670,2024-01-24,5.0,2.0,True
+SHP100879,11,Jakarta,Medan,Delivered,2024-01-22,2024-01-31,18,94921,2024-01-31,9.0,0.0,False
+SHP100951,13,Makassar,Bandung,Delivered,2024-02-01,2024-02-09,6,37735,2024-02-07,6.0,-2.0,False
+SHP100000,7,Jakarta,Denpasar,In Transit,2024-04-02,2024-04-08,14,98798,,,,False
+SHP100495,13,Manado,Yogyakarta,Delivered,2024-04-13,2024-04-14,6,52261,2024-04-18,5.0,4.0,True
+SHP100360,5,Denpasar,Banjarmasin,Delivered,2024-01-01,2024-01-03,15,112003,2024-01-02,1.0,-1.0,False
+SHP100382,14,Yogyakarta,Palembang,Pending,2024-04-20,2024-04-22,10,78551,,,,False
+SHP100316,6,Yogyakarta,Manado,Delivered,2024-02-03,2024-02-04,17,148300,2024-02-08,5.0,4.0,True
+SHP100788,11,Padang,Pontianak,Cancelled,2024-05-22,2024-05-25,19,141144,,,,False
+SHP100611,9,Jakarta,Makassar,Pending,2024-02-22,2024-02-27,4,33771,,,,False
+SHP100521,2,Banjarmasin,Pontianak,Delivered,2024-03-26,2024-03-27,16,104931,2024-03-27,1.0,0.0,False
+SHP100593,9,Semarang,Pontianak,Delivered,2024-05-18,2024-05-28,3,28270,2024-05-26,8.0,-2.0,False
+SHP100566,14,Surabaya,Yogyakarta,Delivered,2024-06-01,2024-06-05,9,71852,2024-06-10,9.0,5.0,True
+SHP100172,3,Yogyakarta,Manado,Cancelled,2024-01-19,2024-01-27,8,63241,,,,False
+SHP100125,13,Balikpapan,Makassar,Delivered,2024-01-05,2024-01-12,4,40628,2024-01-14,9.0,2.0,True
+SHP100994,3,Makassar,Batam,Delivered,2024-04-14,2024-04-17,20,149843,2024-04-17,3.0,0.0,False
+SHP100531,6,Batam,Surabaya,Cancelled,2024-03-03,2024-03-11,1,20985,,,,False
+SHP100616,15,Surabaya,Palembang,Cancelled,2024-01-06,2024-01-15,13,75122,,,,False
+SHP100678,13,Banjarmasin,Makassar,In Transit,2024-06-15,2024-06-25,14,108736,,,,False
+SHP100090,6,Batam,Bandung,Delivered,2024-05-21,2024-05-25,9,74874,2024-05-23,2.0,-2.0,False
+SHP100181,15,Bandung,Padang,Delivered,2024-03-01,2024-03-08,8,77766,2024-03-07,6.0,-1.0,False
+SHP100363,9,Padang,Banjarmasin,Delivered,2024-06-12,2024-06-16,13,84770,2024-06-20,8.0,4.0,True
+SHP100578,5,Batam,Yogyakarta,Delivered,2024-03-04,2024-03-06,6,42586,2024-03-06,2.0,0.0,False
+SHP100781,14,Manado,Banjarmasin,Delivered,2024-01-03,2024-01-09,6,52458,2024-01-08,5.0,-1.0,False
+SHP100069,10,Pontianak,Denpasar,Delivered,2024-04-02,2024-04-08,16,137610,2024-04-07,5.0,-1.0,False
+SHP100291,5,Surabaya,Medan,Delivered,2024-03-21,2024-03-29,10,78736,2024-03-27,6.0,-2.0,False
+SHP100131,9,Pontianak,Batam,Delivered,2024-03-02,2024-03-04,6,44969,2024-03-09,7.0,5.0,True
+SHP100300,11,Banjarmasin,Jakarta,In Transit,2024-06-20,2024-06-24,12,108401,,,,False
+SHP100529,14,Denpasar,Banjarmasin,Delivered,2024-01-07,2024-01-09,17,136002,2024-01-14,7.0,5.0,True
+SHP100326,15,Makassar,Denpasar,Pending,2024-03-18,2024-03-22,1,18685,,,,False
+SHP100144,3,Pontianak,Bandung,Delivered,2024-03-08,2024-03-14,12,85299,2024-03-13,5.0,-1.0,False
+SHP100526,9,Medan,Yogyakarta,Delivered,2024-02-27,2024-03-03,11,78791,2024-03-04,6.0,1.0,True
+SHP100650,4,Yogyakarta,Makassar,Delivered,2024-01-07,2024-01-08,13,92710,2024-01-08,1.0,0.0,False
+SHP100714,10,Padang,Balikpapan,Delivered,2024-06-25,2024-07-01,4,43233,2024-06-30,5.0,-1.0,False
+SHP100135,1,Denpasar,Makassar,Delivered,2024-05-04,2024-05-06,11,93495,2024-05-06,2.0,0.0,False
+SHP100338,11,Jakarta,Pontianak,Delivered,2024-01-30,2024-02-01,17,142819,2024-01-30,0.0,-2.0,False
+SHP100164,5,Palembang,Surabaya,Delivered,2024-03-27,2024-04-06,19,100029,2024-04-06,10.0,0.0,False
+SHP100028,12,Banjarmasin,Jakarta,Delivered,2024-06-11,2024-06-16,1,21826,2024-06-15,4.0,-1.0,False
+SHP100942,5,Banjarmasin,Pontianak,In Transit,2024-02-06,2024-02-08,2,27724,,,,False
+SHP100193,15,Denpasar,Manado,Delivered,2024-04-14,2024-04-24,10,61952,2024-04-24,10.0,0.0,False
+SHP100545,8,Makassar,Jakarta,In Transit,2024-02-07,2024-02-08,1,18468,,,,False
+SHP100711,13,Surabaya,Pontianak,Cancelled,2024-02-20,2024-02-29,4,43686,,,,False
+SHP100433,5,Medan,Yogyakarta,In Transit,2024-05-10,2024-05-16,16,116551,,,,False
+SHP100939,6,Balikpapan,Palembang,Delivered,2024-06-14,2024-06-22,15,77183,2024-06-20,6.0,-2.0,False
+SHP100169,11,Manado,Jakarta,Delivered,2024-05-30,2024-06-07,8,65455,2024-06-07,8.0,0.0,False
+SHP100560,8,Manado,Surabaya,Cancelled,2024-04-26,2024-05-06,6,55328,,,,False
+SHP100140,11,Palembang,Padang,Delivered,2024-06-17,2024-06-20,16,133530,2024-06-18,1.0,-2.0,False
+SHP100173,5,Surabaya,Pontianak,Delivered,2024-06-10,2024-06-15,3,34788,2024-06-15,5.0,0.0,False
+SHP100715,5,Medan,Padang,In Transit,2024-06-09,2024-06-19,15,133118,,,,False
+SHP100920,12,Banjarmasin,Jakarta,In Transit,2024-01-09,2024-01-16,3,38407,,,,False
+SHP100938,13,Manado,Balikpapan,Pending,2024-02-27,2024-03-08,11,82309,,,,False
+SHP100933,12,Banjarmasin,Padang,Delivered,2024-06-18,2024-06-24,13,112190,2024-06-22,4.0,-2.0,False
+SHP100073,12,Jakarta,Palembang,Cancelled,2024-05-06,2024-05-11,15,110694,,,,False
+SHP100762,15,Semarang,Bandung,Pending,2024-05-25,2024-05-28,5,38564,,,,False
+SHP100519,12,Yogyakarta,Surabaya,Delivered,2024-06-11,2024-06-21,18,99628,2024-06-21,10.0,0.0,False
+SHP100238,11,Semarang,Bandung,In Transit,2024-04-12,2024-04-14,13,97321,,,,False
+SHP100145,3,Jakarta,Manado,Delivered,2024-05-15,2024-05-16,10,86452,2024-05-15,0.0,-1.0,False
+SHP100882,4,Balikpapan,Pontianak,In Transit,2024-05-22,2024-05-30,13,84210,,,,False
+SHP100234,14,Makassar,Semarang,Cancelled,2024-04-14,2024-04-19,3,35212,,,,False
+SHP100220,6,Padang,Semarang,Delivered,2024-03-12,2024-03-15,1,22079,2024-03-17,5.0,2.0,True
+SHP100736,9,Yogyakarta,Banjarmasin,Cancelled,2024-05-05,2024-05-10,4,39579,,,,False
+SHP100132,7,Manado,Semarang,Delivered,2024-05-25,2024-05-29,17,150218,2024-06-02,8.0,4.0,True
+SHP100866,1,Makassar,Manado,Delivered,2024-01-30,2024-02-07,19,112841,2024-02-05,6.0,-2.0,False
+SHP100575,10,Jakarta,Palembang,Delivered,2024-05-01,2024-05-05,16,98874,2024-05-10,9.0,5.0,True
+SHP100731,7,Balikpapan,Yogyakarta,Cancelled,2024-05-09,2024-05-14,13,110114,,,,False
+SHP100422,6,Medan,Denpasar,Delivered,2024-02-27,2024-02-29,17,96741,2024-03-05,7.0,5.0,True
+SHP100185,9,Surabaya,Pontianak,In Transit,2024-02-24,2024-02-28,18,139477,,,,False
+SHP100041,10,Surabaya,Yogyakarta,In Transit,2024-03-24,2024-03-25,17,118514,,,,False
+SHP100636,6,Yogyakarta,Palembang,Delivered,2024-03-27,2024-04-06,18,118223,2024-04-04,8.0,-2.0,False
+SHP100108,14,Pontianak,Manado,Delivered,2024-05-09,2024-05-17,8,55295,2024-05-18,9.0,1.0,True
+SHP100703,2,Jakarta,Manado,Delivered,2024-01-28,2024-02-01,18,89036,2024-01-31,3.0,-1.0,False
+SHP100056,3,Medan,Pontianak,In Transit,2024-06-13,2024-06-21,11,77740,,,,False
+SHP100513,14,Pontianak,Denpasar,Delivered,2024-02-13,2024-02-21,14,78423,2024-02-19,6.0,-2.0,False
+SHP100950,11,Surabaya,Medan,In Transit,2024-04-22,2024-04-25,3,31257,,,,False
+SHP100630,14,Surabaya,Padang,Delivered,2024-02-26,2024-03-04,6,47774,2024-03-02,5.0,-2.0,False
+SHP100483,15,Manado,Yogyakarta,Delivered,2024-03-16,2024-03-22,14,90045,2024-03-22,6.0,0.0,False
+SHP100468,2,Manado,Yogyakarta,Delivered,2024-01-18,2024-01-24,1,21612,2024-01-24,6.0,0.0,False
+SHP100959,15,Batam,Bandung,Delivered,2024-05-18,2024-05-24,10,78547,2024-05-23,5.0,-1.0,False
+SHP100435,13,Bandung,Banjarmasin,Delivered,2024-06-22,2024-06-23,15,94647,2024-06-23,1.0,0.0,False
+SHP100024,12,Semarang,Banjarmasin,Delivered,2024-06-23,2024-07-01,6,52769,2024-07-01,8.0,0.0,False
+SHP100522,7,Makassar,Semarang,Delivered,2024-01-24,2024-01-28,8,56693,2024-02-02,9.0,5.0,True
+SHP100536,4,Batam,Makassar,Delivered,2024-04-16,2024-04-25,18,113462,2024-04-25,9.0,0.0,False
+SHP100964,15,Semarang,Yogyakarta,Pending,2024-01-11,2024-01-13,6,51468,,,,False
+SHP100773,7,Semarang,Pontianak,Delivered,2024-03-31,2024-04-07,20,134608,2024-04-11,11.0,4.0,True
+SHP100366,3,Makassar,Medan,Cancelled,2024-04-23,2024-05-02,16,78044,,,,False
+SHP100653,2,Jakarta,Palembang,Delivered,2024-04-19,2024-04-27,17,128916,2024-04-27,8.0,0.0,False
+SHP100383,3,Palembang,Makassar,Delivered,2024-02-02,2024-02-05,4,35980,2024-02-05,3.0,0.0,False
+SHP100454,1,Makassar,Batam,Delivered,2024-04-08,2024-04-12,9,68471,2024-04-12,4.0,0.0,False
+SHP100264,14,Medan,Yogyakarta,In Transit,2024-05-02,2024-05-08,12,84570,,,,False
+SHP100598,13,Jakarta,Denpasar,In Transit,2024-04-08,2024-04-16,1,18723,,,,False
+SHP100444,13,Batam,Palembang,In Transit,2024-01-10,2024-01-13,2,27009,,,,False
+SHP100395,13,Jakarta,Padang,Delivered,2024-05-23,2024-06-02,7,55903,2024-06-01,9.0,-1.0,False
+SHP100176,3,Banjarmasin,Balikpapan,Delivered,2024-01-18,2024-01-20,2,28003,2024-01-18,0.0,-2.0,False
+SHP100018,8,Semarang,Bandung,Pending,2024-04-04,2024-04-11,18,87347,,,,False
+SHP100919,12,Yogyakarta,Semarang,In Transit,2024-03-15,2024-03-25,16,100668,,,,False
+SHP100061,2,Batam,Surabaya,Delivered,2024-03-04,2024-03-11,20,171187,2024-03-11,7.0,0.0,False
+SHP100272,3,Banjarmasin,Manado,Delivered,2024-01-18,2024-01-21,2,22376,2024-01-21,3.0,0.0,False
+SHP100984,5,Surabaya,Denpasar,Delivered,2024-04-23,2024-04-26,8,62773,2024-04-26,3.0,0.0,False
+SHP100278,11,Bandung,Padang,Delivered,2024-01-31,2024-02-02,15,125434,2024-01-31,0.0,-2.0,False
+SHP100904,8,Batam,Pontianak,Delivered,2024-03-08,2024-03-10,9,77207,2024-03-12,4.0,2.0,True
+SHP100368,4,Makassar,Semarang,Delivered,2024-06-29,2024-07-07,16,84049,2024-07-07,8.0,0.0,False
+SHP100688,1,Bandung,Makassar,Delivered,2024-05-01,2024-05-08,17,86668,2024-05-08,7.0,0.0,False
+SHP100807,11,Surabaya,Makassar,Delivered,2024-05-21,2024-05-26,1,20140,2024-05-24,3.0,-2.0,False
+SHP100892,15,Batam,Jakarta,In Transit,2024-03-17,2024-03-23,20,143313,,,,False
+SHP100700,4,Padang,Batam,Delivered,2024-01-30,2024-02-03,6,57960,2024-02-02,3.0,-1.0,False
+SHP100456,5,Batam,Bandung,In Transit,2024-02-18,2024-02-27,13,117285,,,,False
+SHP100393,6,Denpasar,Medan,Delivered,2024-01-27,2024-02-04,10,76755,2024-02-03,7.0,-1.0,False
+SHP100708,4,Balikpapan,Medan,Delivered,2024-06-22,2024-06-27,2,30142,2024-07-01,9.0,4.0,True
+SHP100905,6,Manado,Batam,Delivered,2024-06-18,2024-06-25,5,39691,2024-06-27,9.0,2.0,True
+SHP100375,11,Denpasar,Makassar,Delivered,2024-02-08,2024-02-16,5,34900,2024-02-14,6.0,-2.0,False
+SHP100412,3,Balikpapan,Medan,Delivered,2024-01-28,2024-02-03,5,53341,2024-02-06,9.0,3.0,True
+SHP100074,15,Balikpapan,Semarang,Delivered,2024-01-24,2024-01-29,16,131158,2024-01-29,5.0,0.0,False
+SHP100980,12,Yogyakarta,Padang,Pending,2024-02-14,2024-02-16,6,59339,,,,False
+SHP100500,2,Makassar,Pontianak,Delivered,2024-02-23,2024-03-02,19,160379,2024-03-02,8.0,0.0,False
+SHP100717,8,Makassar,Palembang,Delivered,2024-01-27,2024-02-06,3,30884,2024-02-05,9.0,-1.0,False
+SHP100114,5,Bandung,Pontianak,Delivered,2024-06-04,2024-06-11,17,87108,2024-06-10,6.0,-1.0,False
+SHP100417,14,Jakarta,Padang,Delivered,2024-02-21,2024-02-23,15,84144,2024-02-23,2.0,0.0,False
+SHP100089,14,Surabaya,Medan,Delivered,2024-03-05,2024-03-09,9,85905,2024-03-11,6.0,2.0,True
+SHP100965,9,Denpasar,Bandung,Delivered,2024-04-20,2024-04-21,20,124767,2024-04-21,1.0,0.0,False
+SHP100684,3,Makassar,Banjarmasin,Delivered,2024-06-08,2024-06-18,8,52570,2024-06-16,8.0,-2.0,False
+SHP100011,7,Batam,Surabaya,Delivered,2024-01-26,2024-02-01,2,21215,2024-02-03,8.0,2.0,True
+SHP100396,9,Batam,Semarang,Delivered,2024-04-14,2024-04-21,7,63391,2024-04-20,6.0,-1.0,False
+SHP100594,8,Padang,Batam,Delivered,2024-01-21,2024-01-24,6,46335,2024-01-23,2.0,-1.0,False
+SHP100885,4,Jakarta,Surabaya,Delivered,2024-06-01,2024-06-05,10,77028,2024-06-09,8.0,4.0,True
+SHP100042,12,Yogyakarta,Palembang,Delivered,2024-01-15,2024-01-24,6,60871,2024-01-23,8.0,-1.0,False
+SHP100167,8,Balikpapan,Jakarta,In Transit,2024-05-21,2024-05-29,8,77142,,,,False
+SHP100416,14,Pontianak,Bandung,Cancelled,2024-02-26,2024-03-05,16,115686,,,,False
+SHP100843,13,Manado,Batam,In Transit,2024-05-16,2024-05-25,11,94796,,,,False
+SHP100426,2,Jakarta,Pontianak,Delivered,2024-04-12,2024-04-13,2,27725,2024-04-12,0.0,-1.0,False
+SHP100544,1,Denpasar,Bandung,Delivered,2024-03-03,2024-03-10,4,44252,2024-03-09,6.0,-1.0,False
+SHP100981,1,Pontianak,Yogyakarta,Delivered,2024-04-30,2024-05-03,14,115385,2024-05-03,3.0,0.0,False
+SHP100774,9,Balikpapan,Batam,Delivered,2024-03-07,2024-03-08,15,125056,2024-03-12,5.0,4.0,True
+SHP100685,2,Banjarmasin,Padang,Cancelled,2024-02-09,2024-02-11,19,135686,,,,False
+SHP100257,15,Palembang,Padang,Delivered,2024-05-28,2024-06-03,5,53790,2024-06-05,8.0,2.0,True
+SHP100335,2,Surabaya,Banjarmasin,Pending,2024-01-27,2024-02-05,9,86567,,,,False
+SHP100015,5,Balikpapan,Banjarmasin,Delivered,2024-06-11,2024-06-12,17,104208,2024-06-15,4.0,3.0,True
+SHP100811,13,Balikpapan,Denpasar,Delivered,2024-05-20,2024-05-21,10,72664,2024-05-21,1.0,0.0,False
+SHP100324,10,Jakarta,Surabaya,Delivered,2024-05-19,2024-05-23,18,120817,2024-05-21,2.0,-2.0,False
+SHP100845,12,Manado,Medan,In Transit,2024-03-11,2024-03-18,9,54519,,,,False
+SHP100222,12,Balikpapan,Banjarmasin,In Transit,2024-03-04,2024-03-09,6,47011,,,,False
+SHP100179,10,Padang,Manado,Delivered,2024-01-19,2024-01-29,12,81193,2024-02-03,15.0,5.0,True
+SHP100099,12,Palembang,Pontianak,Delivered,2024-01-29,2024-02-05,9,71649,2024-02-03,5.0,-2.0,False
+SHP100022,2,Padang,Jakarta,Delivered,2024-03-09,2024-03-15,8,58330,2024-03-14,5.0,-1.0,False
+SHP100356,1,Padang,Banjarmasin,Delivered,2024-06-11,2024-06-19,14,110331,2024-06-18,7.0,-1.0,False
+SHP100745,11,Pontianak,Padang,Delivered,2024-05-13,2024-05-22,5,42134,2024-05-22,9.0,0.0,False
+SHP100960,1,Palembang,Surabaya,Delivered,2024-05-06,2024-05-13,7,44753,2024-05-13,7.0,0.0,False
+SHP100784,5,Semarang,Surabaya,Delivered,2024-01-22,2024-01-28,1,21214,2024-01-26,4.0,-2.0,False
+SHP100340,9,Banjarmasin,Palembang,Delivered,2024-05-21,2024-05-24,13,104789,2024-05-28,7.0,4.0,True
+SHP100431,15,Jakarta,Bandung,In Transit,2024-03-30,2024-04-01,17,90010,,,,False
+SHP100615,5,Palembang,Padang,Cancelled,2024-06-27,2024-07-03,17,135816,,,,False
+SHP100930,5,Pontianak,Semarang,Cancelled,2024-03-08,2024-03-09,8,61087,,,,False
+SHP100203,13,Medan,Pontianak,Delivered,2024-01-14,2024-01-22,11,76483,2024-01-26,12.0,4.0,True
+SHP100704,13,Batam,Bandung,Delivered,2024-05-28,2024-06-01,11,75028,2024-05-31,3.0,-1.0,False
+SHP100093,4,Yogyakarta,Jakarta,Delivered,2024-01-30,2024-02-03,1,23314,2024-02-01,2.0,-2.0,False
+SHP100973,9,Bandung,Yogyakarta,Delivered,2024-05-27,2024-06-01,6,40622,2024-05-31,4.0,-1.0,False
+SHP100068,9,Makassar,Balikpapan,Delivered,2024-04-12,2024-04-19,5,49517,2024-04-19,7.0,0.0,False
+SHP100695,14,Surabaya,Denpasar,Delivered,2024-03-06,2024-03-12,5,50100,2024-03-12,6.0,0.0,False
+SHP100284,7,Pontianak,Denpasar,In Transit,2024-06-07,2024-06-13,18,93414,,,,False
+SHP100895,5,Yogyakarta,Balikpapan,Delivered,2024-03-19,2024-03-27,11,80114,2024-03-27,8.0,0.0,False
+SHP100434,12,Semarang,Balikpapan,Delivered,2024-04-12,2024-04-19,20,171847,2024-04-17,5.0,-2.0,False
+SHP100153,12,Medan,Surabaya,Cancelled,2024-04-12,2024-04-19,7,52913,,,,False
+SHP100075,12,Jakarta,Makassar,Cancelled,2024-01-13,2024-01-23,18,132526,,,,False
+SHP100816,13,Manado,Padang,Delivered,2024-03-10,2024-03-12,18,124697,2024-03-11,1.0,-1.0,False
+SHP100580,7,Semarang,Padang,Delivered,2024-03-11,2024-03-13,7,44385,2024-03-12,1.0,-1.0,False
+SHP100446,5,Medan,Pontianak,Delivered,2024-06-01,2024-06-05,15,78714,2024-06-05,4.0,0.0,False
+SHP100188,10,Yogyakarta,Surabaya,Delivered,2024-05-26,2024-05-28,9,64753,2024-05-28,2.0,0.0,False
+SHP100271,2,Jakarta,Surabaya,Pending,2024-02-17,2024-02-19,2,26049,,,,False
+SHP100236,1,Jakarta,Medan,Delivered,2024-05-03,2024-05-08,8,73667,2024-05-10,7.0,2.0,True
+SHP100487,10,Palembang,Yogyakarta,Delivered,2024-04-17,2024-04-23,6,48462,2024-04-21,4.0,-2.0,False
+SHP100559,7,Bandung,Balikpapan,Delivered,2024-02-01,2024-02-04,2,25108,2024-02-04,3.0,0.0,False
+SHP100117,15,Pontianak,Denpasar,Delivered,2024-04-05,2024-04-13,15,102541,2024-04-11,6.0,-2.0,False
+SHP100911,10,Balikpapan,Pontianak,In Transit,2024-01-20,2024-01-25,3,32523,,,,False
+SHP100512,8,Surabaya,Palembang,Delivered,2024-05-01,2024-05-11,7,53351,2024-05-15,14.0,4.0,True
+SHP100617,1,Bandung,Medan,Delivered,2024-05-27,2024-05-29,4,38501,2024-05-29,2.0,0.0,False
+SHP100661,3,Pontianak,Manado,Delivered,2024-02-24,2024-03-02,16,138848,2024-03-02,7.0,0.0,False
+SHP100126,9,Banjarmasin,Manado,Cancelled,2024-01-29,2024-02-04,14,83048,,,,False
+SHP100116,2,Balikpapan,Surabaya,Delivered,2024-02-09,2024-02-11,12,67099,2024-02-11,2.0,0.0,False
+SHP100473,10,Banjarmasin,Balikpapan,Pending,2024-06-18,2024-06-25,4,45271,,,,False
+SHP100958,2,Yogyakarta,Denpasar,Delivered,2024-05-08,2024-05-17,7,54139,2024-05-20,12.0,3.0,True
+SHP100057,7,Denpasar,Pontianak,Delivered,2024-04-27,2024-05-01,17,97959,2024-05-01,4.0,0.0,False
+SHP100603,13,Yogyakarta,Jakarta,Delivered,2024-01-17,2024-01-27,2,28638,2024-01-27,10.0,0.0,False
+SHP100753,12,Medan,Surabaya,Delivered,2024-05-31,2024-06-01,1,22989,2024-05-31,0.0,-1.0,False
+SHP100369,8,Surabaya,Denpasar,Delivered,2024-04-19,2024-04-20,7,69412,2024-04-19,0.0,-1.0,False
+SHP100268,12,Batam,Semarang,Delivered,2024-01-15,2024-01-23,11,98889,2024-01-25,10.0,2.0,True
+SHP100046,14,Semarang,Manado,Delivered,2024-04-12,2024-04-14,5,35473,2024-04-18,6.0,4.0,True
+SHP100195,1,Yogyakarta,Banjarmasin,Delivered,2024-01-25,2024-01-30,19,104864,2024-01-28,3.0,-2.0,False
+SHP100886,9,Batam,Palembang,Pending,2024-06-07,2024-06-12,3,26969,,,,False
+SHP100888,15,Banjarmasin,Medan,Cancelled,2024-05-13,2024-05-14,3,36300,,,,False
+SHP100822,7,Surabaya,Banjarmasin,Delivered,2024-03-21,2024-03-30,16,123183,2024-03-29,8.0,-1.0,False
+SHP100263,1,Bandung,Padang,In Transit,2024-05-29,2024-06-07,4,34944,,,,False
+SHP100837,10,Surabaya,Balikpapan,Delivered,2024-03-16,2024-03-22,1,19919,2024-03-20,4.0,-2.0,False
+SHP100443,14,Pontianak,Jakarta,Delivered,2024-03-08,2024-03-12,9,60090,2024-03-10,2.0,-2.0,False
+SHP100754,9,Balikpapan,Batam,Delivered,2024-03-09,2024-03-17,17,140216,2024-03-16,7.0,-1.0,False
+SHP100304,8,Manado,Padang,Delivered,2024-03-21,2024-03-30,4,38796,2024-03-28,7.0,-2.0,False
+SHP100341,9,Padang,Batam,Delivered,2024-02-09,2024-02-10,9,80145,2024-02-12,3.0,2.0,True
+SHP100819,4,Manado,Bandung,In Transit,2024-02-29,2024-03-10,13,71190,,,,False
+SHP100313,9,Palembang,Denpasar,Cancelled,2024-02-24,2024-02-28,20,173841,,,,False
+SHP100149,10,Palembang,Banjarmasin,Delivered,2024-05-18,2024-05-25,5,40029,2024-05-23,5.0,-2.0,False
+SHP100124,12,Padang,Denpasar,Delivered,2024-05-05,2024-05-14,17,98257,2024-05-14,9.0,0.0,False
+SHP100876,5,Padang,Pontianak,Delivered,2024-02-08,2024-02-09,20,111994,2024-02-08,0.0,-1.0,False
+SHP100916,10,Makassar,Medan,Delivered,2024-06-25,2024-06-30,9,56720,2024-06-28,3.0,-2.0,False
+SHP100050,12,Banjarmasin,Denpasar,In Transit,2024-05-25,2024-06-02,15,114265,,,,False
+SHP100353,12,Jakarta,Balikpapan,In Transit,2024-03-05,2024-03-07,7,47137,,,,False
+SHP100142,1,Manado,Padang,Delivered,2024-05-20,2024-05-21,17,124145,2024-05-20,0.0,-1.0,False
+SHP100470,10,Makassar,Medan,Delivered,2024-03-25,2024-03-28,3,35626,2024-04-02,8.0,5.0,True
+SHP100399,4,Banjarmasin,Manado,Delivered,2024-03-01,2024-03-10,3,28568,2024-03-09,8.0,-1.0,False
+SHP100834,7,Medan,Padang,Delivered,2024-03-13,2024-03-16,7,69116,2024-03-21,8.0,5.0,True
+SHP100320,12,Pontianak,Semarang,Delivered,2024-04-04,2024-04-14,18,103405,2024-04-13,9.0,-1.0,False
+SHP100901,11,Bandung,Padang,Delivered,2024-02-23,2024-02-29,16,103662,2024-02-29,6.0,0.0,False
+SHP100880,12,Pontianak,Banjarmasin,Delivered,2024-03-04,2024-03-11,2,24018,2024-03-09,5.0,-2.0,False
+SHP100900,9,Denpasar,Batam,Delivered,2024-01-26,2024-02-03,15,129986,2024-02-02,7.0,-1.0,False
+SHP100407,3,Semarang,Banjarmasin,Pending,2024-06-20,2024-06-27,15,84619,,,,False
+SHP100537,10,Makassar,Medan,Delivered,2024-06-10,2024-06-14,16,131683,2024-06-14,4.0,0.0,False
+SHP100693,10,Yogyakarta,Banjarmasin,Delivered,2024-04-29,2024-05-06,17,137310,2024-05-11,12.0,5.0,True
+SHP100038,11,Banjarmasin,Manado,Delivered,2024-05-22,2024-05-25,19,156889,2024-05-27,5.0,2.0,True
+SHP100175,14,Yogyakarta,Makassar,Delivered,2024-02-28,2024-03-02,2,25481,2024-02-29,1.0,-2.0,False
+SHP100245,7,Manado,Balikpapan,In Transit,2024-04-26,2024-05-02,13,90607,,,,False
+SHP100924,11,Denpasar,Balikpapan,Delivered,2024-03-13,2024-03-21,10,67523,2024-03-20,7.0,-1.0,False
+SHP100746,3,Denpasar,Manado,Delivered,2024-06-15,2024-06-24,4,39479,2024-06-23,8.0,-1.0,False
+SHP100154,7,Batam,Palembang,Delivered,2024-06-20,2024-06-30,20,150747,2024-07-05,15.0,5.0,True
+SHP100638,4,Surabaya,Padang,Delivered,2024-06-22,2024-06-28,20,143497,2024-06-26,4.0,-2.0,False
+SHP100287,1,Semarang,Yogyakarta,Delivered,2024-06-17,2024-06-27,5,40701,2024-06-29,12.0,2.0,True
+SHP100625,10,Padang,Semarang,Cancelled,2024-05-17,2024-05-19,4,29710,,,,False
+SHP100675,11,Palembang,Surabaya,Delivered,2024-02-27,2024-03-01,19,142629,2024-02-29,2.0,-1.0,False
+SHP100569,8,Denpasar,Palembang,Delivered,2024-06-05,2024-06-12,12,87677,2024-06-13,8.0,1.0,True
+SHP100847,10,Denpasar,Manado,Delivered,2024-01-14,2024-01-15,16,84898,2024-01-14,0.0,-1.0,False
+SHP100017,8,Semarang,Medan,Delivered,2024-02-11,2024-02-19,17,116250,2024-02-19,8.0,0.0,False
+SHP100127,13,Bandung,Manado,Delivered,2024-04-02,2024-04-10,10,56197,2024-04-13,11.0,3.0,True
+SHP100322,4,Bandung,Balikpapan,Cancelled,2024-02-10,2024-02-12,20,117847,,,,False
+SHP100255,12,Surabaya,Batam,In Transit,2024-02-25,2024-03-06,12,94236,,,,False
+SHP100909,5,Balikpapan,Jakarta,In Transit,2024-02-14,2024-02-17,20,144828,,,,False
+SHP100190,12,Padang,Yogyakarta,In Transit,2024-05-01,2024-05-08,12,107345,,,,False
+SHP100115,13,Padang,Denpasar,Delivered,2024-02-20,2024-02-23,10,91960,2024-02-21,1.0,-2.0,False
+SHP100689,10,Yogyakarta,Bandung,Delivered,2024-06-20,2024-06-26,9,72422,2024-06-24,4.0,-2.0,False
+SHP100606,12,Palembang,Denpasar,Delivered,2024-03-25,2024-03-28,19,108298,2024-03-26,1.0,-2.0,False
+SHP100180,7,Pontianak,Semarang,Delivered,2024-05-11,2024-05-16,4,37951,2024-05-14,3.0,-2.0,False
+SHP100301,1,Semarang,Banjarmasin,Delivered,2024-06-14,2024-06-20,13,86081,2024-06-19,5.0,-1.0,False
+SHP100846,14,Bandung,Batam,Delivered,2024-01-12,2024-01-20,1,21119,2024-01-18,6.0,-2.0,False
+SHP100808,10,Makassar,Surabaya,Delivered,2024-05-15,2024-05-19,1,21264,2024-05-17,2.0,-2.0,False
+SHP100764,5,Makassar,Semarang,In Transit,2024-06-20,2024-06-28,17,150656,,,,False
+SHP100517,7,Semarang,Balikpapan,In Transit,2024-05-11,2024-05-15,19,149551,,,,False
+SHP100372,1,Balikpapan,Semarang,Delivered,2024-01-29,2024-02-05,4,37724,2024-02-03,5.0,-2.0,False
+SHP100045,14,Bandung,Palembang,In Transit,2024-03-21,2024-03-25,19,156724,,,,False
+SHP100157,12,Palembang,Jakarta,Delivered,2024-04-22,2024-04-25,16,89435,2024-04-23,1.0,-2.0,False
+SHP100830,3,Makassar,Balikpapan,Delivered,2024-03-11,2024-03-17,13,111516,2024-03-19,8.0,2.0,True
+SHP100171,1,Surabaya,Pontianak,Delivered,2024-01-02,2024-01-03,4,42712,2024-01-04,2.0,1.0,True
+SHP100016,4,Bandung,Padang,Delivered,2024-04-03,2024-04-12,15,84811,2024-04-14,11.0,2.0,True
+SHP100511,1,Semarang,Makassar,Pending,2024-05-10,2024-05-15,8,71713,,,,False
+SHP100048,14,Bandung,Pontianak,Delivered,2024-01-17,2024-01-19,1,23355,2024-01-17,0.0,-2.0,False
+SHP100191,13,Balikpapan,Medan,Delivered,2024-03-03,2024-03-13,7,61792,2024-03-13,10.0,0.0,False
+SHP100937,3,Bandung,Batam,Delivered,2024-05-19,2024-05-22,12,77464,2024-05-20,1.0,-2.0,False
+SHP100515,12,Palembang,Surabaya,In Transit,2024-01-22,2024-01-27,18,131909,,,,False
+SHP100759,4,Yogyakarta,Balikpapan,Delivered,2024-04-25,2024-04-27,3,30503,2024-04-26,1.0,-1.0,False
+SHP100765,3,Balikpapan,Batam,In Transit,2024-04-07,2024-04-16,12,81698,,,,False
+SHP100480,6,Batam,Padang,Delivered,2024-03-24,2024-03-31,8,56780,2024-03-31,7.0,0.0,False
+SHP100283,6,Surabaya,Pontianak,Delivered,2024-01-11,2024-01-19,20,128512,2024-01-18,7.0,-1.0,False
+SHP100802,13,Bandung,Jakarta,Delivered,2024-03-19,2024-03-28,15,125909,2024-03-29,10.0,1.0,True
+SHP100730,1,Jakarta,Yogyakarta,Delivered,2024-01-18,2024-01-28,3,35875,2024-01-26,8.0,-2.0,False
+SHP100225,4,Semarang,Denpasar,Delivered,2024-05-20,2024-05-23,14,100751,2024-05-25,5.0,2.0,True
+SHP100026,6,Makassar,Denpasar,Delivered,2024-01-19,2024-01-20,12,96581,2024-01-23,4.0,3.0,True
+SHP100872,13,Bandung,Semarang,In Transit,2024-06-10,2024-06-15,15,113566,,,,False
+SHP100437,4,Makassar,Bandung,In Transit,2024-03-25,2024-04-04,6,56112,,,,False
+SHP100364,9,Banjarmasin,Padang,Pending,2024-03-08,2024-03-18,8,50264,,,,False
+SHP100229,10,Manado,Padang,Delivered,2024-05-18,2024-05-24,18,156023,2024-05-24,6.0,0.0,False
+SHP100037,1,Makassar,Bandung,Delivered,2024-06-25,2024-06-29,15,105608,2024-06-28,3.0,-1.0,False
+SHP100669,12,Jakarta,Makassar,Delivered,2024-01-21,2024-01-23,16,102324,2024-01-22,1.0,-1.0,False
+SHP100374,4,Medan,Makassar,Delivered,2024-06-25,2024-06-27,3,38025,2024-06-30,5.0,3.0,True
+SHP100469,9,Manado,Banjarmasin,Delivered,2024-06-19,2024-06-20,17,118589,2024-06-22,3.0,2.0,True
+SHP100687,7,Yogyakarta,Medan,Pending,2024-02-02,2024-02-11,10,60246,,,,False
+SHP100948,14,Pontianak,Manado,Delivered,2024-05-25,2024-05-26,6,47351,2024-05-31,6.0,5.0,True
+SHP100785,3,Manado,Semarang,Delivered,2024-03-02,2024-03-04,17,152333,2024-03-04,2.0,0.0,False
+SHP100194,7,Jakarta,Makassar,Delivered,2024-02-18,2024-02-23,13,112693,2024-02-27,9.0,4.0,True
+SHP100953,7,Palembang,Surabaya,Pending,2024-06-25,2024-07-01,1,20536,,,,False
+SHP100963,10,Pontianak,Jakarta,Pending,2024-06-02,2024-06-06,4,36489,,,,False
+SHP100503,13,Palembang,Yogyakarta,Delivered,2024-06-04,2024-06-11,11,82743,2024-06-09,5.0,-2.0,False
+SHP100927,1,Bandung,Pontianak,Delivered,2024-01-19,2024-01-29,13,73907,2024-01-30,11.0,1.0,True
+SHP100579,14,Manado,Balikpapan,Delivered,2024-06-12,2024-06-21,11,69258,2024-06-21,9.0,0.0,False
+SHP100160,7,Balikpapan,Pontianak,Delivered,2024-01-31,2024-02-07,13,120185,2024-02-06,6.0,-1.0,False
+SHP100680,15,Medan,Makassar,Delivered,2024-01-08,2024-01-14,10,61805,2024-01-18,10.0,4.0,True
+SHP100991,5,Jakarta,Bandung,Delivered,2024-01-24,2024-02-02,1,23261,2024-02-04,11.0,2.0,True
+SHP100162,14,Yogyakarta,Semarang,Delivered,2024-02-27,2024-03-02,4,33026,2024-02-29,2.0,-2.0,False
+SHP100705,11,Makassar,Yogyakarta,Delivered,2024-01-07,2024-01-10,5,45072,2024-01-15,8.0,5.0,True
+SHP100783,10,Batam,Semarang,Delivered,2024-02-18,2024-02-19,18,143756,2024-02-18,0.0,-1.0,False
+SHP100152,9,Pontianak,Balikpapan,In Transit,2024-03-20,2024-03-29,1,23881,,,,False
+SHP100760,3,Makassar,Banjarmasin,Delivered,2024-03-03,2024-03-08,7,58250,2024-03-10,7.0,2.0,True
+SHP100780,7,Makassar,Semarang,Cancelled,2024-05-22,2024-05-24,5,35788,,,,False
+SHP100842,13,Banjarmasin,Makassar,In Transit,2024-01-04,2024-01-13,15,94917,,,,False
+SHP100111,9,Surabaya,Pontianak,In Transit,2024-03-17,2024-03-25,11,76416,,,,False
+SHP100226,14,Medan,Bandung,Cancelled,2024-01-26,2024-01-30,5,37011,,,,False
+SHP100767,9,Denpasar,Jakarta,Cancelled,2024-01-08,2024-01-15,3,27318,,,,False
+SHP100103,4,Surabaya,Denpasar,Delivered,2024-04-26,2024-04-29,18,112316,2024-05-02,6.0,3.0,True
+SHP100421,3,Manado,Jakarta,Delivered,2024-02-28,2024-03-06,8,64891,2024-03-06,7.0,0.0,False
+SHP100419,6,Banjarmasin,Bandung,Delivered,2024-03-30,2024-04-01,7,53837,2024-04-05,6.0,4.0,True
+SHP100836,10,Medan,Pontianak,Cancelled,2024-02-19,2024-02-28,7,51470,,,,False
+SHP100586,10,Yogyakarta,Makassar,In Transit,2024-04-22,2024-04-25,12,104853,,,,False
+SHP100926,15,Palembang,Manado,Cancelled,2024-04-26,2024-05-02,10,55853,,,,False
+SHP100672,1,Palembang,Pontianak,Delivered,2024-05-18,2024-05-23,10,74695,2024-05-23,5.0,0.0,False
+SHP100119,8,Makassar,Padang,Delivered,2024-05-18,2024-05-24,14,125360,2024-05-23,5.0,-1.0,False
+SHP100053,9,Surabaya,Medan,Delivered,2024-06-16,2024-06-21,5,46568,2024-06-26,10.0,5.0,True
+SHP100151,10,Surabaya,Palembang,In Transit,2024-02-21,2024-02-25,7,53445,,,,False
+SHP100403,4,Surabaya,Denpasar,Delivered,2024-01-07,2024-01-11,12,87892,2024-01-11,4.0,0.0,False
+SHP100207,4,Surabaya,Pontianak,In Transit,2024-01-26,2024-02-01,20,164848,,,,False
+SHP100658,8,Yogyakarta,Batam,In Transit,2024-03-07,2024-03-13,14,75866,,,,False
+SHP100941,3,Jakarta,Denpasar,Delivered,2024-03-09,2024-03-12,17,147359,2024-03-16,7.0,4.0,True
+SHP100850,8,Makassar,Banjarmasin,Delivered,2024-06-27,2024-07-02,12,66600,2024-07-02,5.0,0.0,False
+SHP100008,7,Palembang,Jakarta,Delivered,2024-03-15,2024-03-17,14,71422,2024-03-15,0.0,-2.0,False
+SHP100910,8,Batam,Balikpapan,Delivered,2024-05-21,2024-05-30,17,136565,2024-05-29,8.0,-1.0,False
+SHP100036,9,Makassar,Pontianak,Delivered,2024-06-12,2024-06-22,18,119423,2024-06-22,10.0,0.0,False
+SHP100452,8,Pontianak,Denpasar,Delivered,2024-05-10,2024-05-15,17,87485,2024-05-13,3.0,-2.0,False
+SHP100651,8,Pontianak,Jakarta,In Transit,2024-01-22,2024-01-26,8,61299,,,,False
+SHP100253,3,Yogyakarta,Bandung,Delivered,2024-02-18,2024-02-24,3,35514,2024-02-24,6.0,0.0,False
+SHP100303,6,Banjarmasin,Palembang,In Transit,2024-04-27,2024-05-03,10,80674,,,,False
+SHP100832,12,Jakarta,Bandung,Delivered,2024-05-14,2024-05-24,17,149727,2024-05-24,10.0,0.0,False
+SHP100571,3,Medan,Batam,Delivered,2024-04-19,2024-04-21,3,26333,2024-04-24,5.0,3.0,True
+SHP100623,12,Bandung,Balikpapan,Delivered,2024-04-09,2024-04-15,1,20386,2024-04-20,11.0,5.0,True
+SHP100803,8,Padang,Denpasar,Delivered,2024-06-18,2024-06-28,8,78385,2024-06-26,8.0,-2.0,False
+SHP100793,9,Balikpapan,Manado,In Transit,2024-05-05,2024-05-13,4,36539,,,,False
+SHP100262,4,Semarang,Pontianak,In Transit,2024-01-13,2024-01-23,6,45861,,,,False
+SHP100610,6,Pontianak,Makassar,Delivered,2024-01-16,2024-01-24,16,100308,2024-01-24,8.0,0.0,False
+SHP100297,7,Batam,Manado,Delivered,2024-03-08,2024-03-12,16,117248,2024-03-11,3.0,-1.0,False
+SHP100414,7,Batam,Balikpapan,Delivered,2024-01-10,2024-01-16,19,104545,2024-01-21,11.0,5.0,True
+SHP100150,7,Jakarta,Pontianak,Delivered,2024-06-25,2024-06-28,6,61274,2024-06-28,3.0,0.0,False
+SHP100988,7,Medan,Denpasar,Delivered,2024-04-21,2024-04-27,2,26189,2024-05-02,11.0,5.0,True
+SHP100778,10,Balikpapan,Bandung,Delivered,2024-06-28,2024-07-02,8,70585,2024-06-30,2.0,-2.0,False
+SHP100640,4,Balikpapan,Denpasar,Delivered,2024-02-12,2024-02-20,15,104161,2024-02-21,9.0,1.0,True
+SHP100989,5,Pontianak,Banjarmasin,Delivered,2024-06-11,2024-06-13,8,59976,2024-06-13,2.0,0.0,False
+SHP100550,5,Medan,Makassar,In Transit,2024-04-18,2024-04-25,14,122828,,,,False
+SHP100881,5,Jakarta,Manado,Delivered,2024-01-31,2024-02-09,13,78720,2024-02-09,9.0,0.0,False
+SHP100488,1,Banjarmasin,Padang,Delivered,2024-06-19,2024-06-29,1,22756,2024-06-28,9.0,-1.0,False
+SHP100710,5,Bandung,Banjarmasin,Delivered,2024-04-11,2024-04-20,13,73642,2024-04-20,9.0,0.0,False
+SHP100147,11,Medan,Palembang,Delivered,2024-04-18,2024-04-24,9,62871,2024-04-24,6.0,0.0,False
+SHP100146,1,Balikpapan,Bandung,Pending,2024-06-04,2024-06-09,15,94045,,,,False
+SHP100345,14,Makassar,Medan,Delivered,2024-02-23,2024-02-29,19,114973,2024-02-28,5.0,-1.0,False
+SHP100825,4,Yogyakarta,Bandung,Delivered,2024-06-25,2024-06-28,16,138390,2024-06-26,1.0,-2.0,False
+SHP100983,15,Bandung,Balikpapan,Delivered,2024-06-15,2024-06-23,7,69767,2024-06-26,11.0,3.0,True
+SHP100659,12,Manado,Semarang,Delivered,2024-04-07,2024-04-13,5,40021,2024-04-11,4.0,-2.0,False
+SHP100770,5,Jakarta,Pontianak,Delivered,2024-02-16,2024-02-24,5,41422,2024-02-28,12.0,4.0,True
+SHP100348,7,Denpasar,Pontianak,In Transit,2024-06-24,2024-06-29,19,147144,,,,False
+SHP100463,13,Surabaya,Medan,Delivered,2024-06-24,2024-06-25,17,101552,2024-06-29,5.0,4.0,True
+SHP100325,3,Batam,Jakarta,Delivered,2024-06-29,2024-07-09,4,46503,2024-07-09,10.0,0.0,False
+SHP100186,15,Batam,Balikpapan,Delivered,2024-05-18,2024-05-25,11,80156,2024-05-24,6.0,-1.0,False
+SHP100123,12,Denpasar,Palembang,Pending,2024-03-23,2024-03-29,2,22969,,,,False
+SHP100952,5,Manado,Palembang,In Transit,2024-04-29,2024-05-05,3,38215,,,,False
+SHP100608,3,Banjarmasin,Bandung,Cancelled,2024-04-29,2024-05-01,15,95761,,,,False
+SHP100143,8,Batam,Makassar,Delivered,2024-02-12,2024-02-13,8,51055,2024-02-18,6.0,5.0,True
+SHP100751,9,Manado,Jakarta,In Transit,2024-04-29,2024-05-02,7,64897,,,,False
+SHP100197,13,Balikpapan,Batam,Delivered,2024-06-17,2024-06-24,13,91815,2024-06-24,7.0,0.0,False
+SHP100609,5,Banjarmasin,Surabaya,Delivered,2024-04-16,2024-04-24,19,117628,2024-04-27,11.0,3.0,True
+SHP100279,1,Batam,Pontianak,Delivered,2024-05-25,2024-05-29,1,24691,2024-06-01,7.0,3.0,True
+SHP100293,10,Jakarta,Batam,Delivered,2024-02-22,2024-02-29,10,81031,2024-03-04,11.0,4.0,True
+SHP100928,9,Manado,Yogyakarta,Delivered,2024-06-24,2024-07-01,11,64164,2024-07-05,11.0,4.0,True
+SHP100400,1,Makassar,Semarang,Pending,2024-02-11,2024-02-15,19,101874,,,,False
+SHP100122,12,Makassar,Batam,Delivered,2024-06-02,2024-06-04,6,37867,2024-06-04,2.0,0.0,False
+SHP100183,7,Semarang,Makassar,In Transit,2024-06-20,2024-06-28,5,51885,,,,False
+SHP100202,7,Pontianak,Denpasar,Cancelled,2024-04-29,2024-05-09,11,81688,,,,False
+SHP100438,3,Manado,Batam,In Transit,2024-01-08,2024-01-13,17,123572,,,,False
+SHP100246,6,Banjarmasin,Semarang,Delivered,2024-03-14,2024-03-16,18,133909,2024-03-19,5.0,3.0,True
+SHP100415,6,Batam,Palembang,Delivered,2024-04-30,2024-05-03,14,75710,2024-05-01,1.0,-2.0,False
+SHP100853,9,Palembang,Manado,In Transit,2024-05-05,2024-05-07,7,54541,,,,False
+SHP100985,6,Manado,Banjarmasin,Delivered,2024-03-12,2024-03-20,13,90262,2024-03-21,9.0,1.0,True
+SHP100987,5,Banjarmasin,Pontianak,In Transit,2024-05-29,2024-06-04,18,130063,,,,False
+SHP100129,13,Banjarmasin,Palembang,Pending,2024-03-02,2024-03-03,3,29657,,,,False
+SHP100637,5,Yogyakarta,Manado,Delivered,2024-06-20,2024-06-24,3,30456,2024-06-22,2.0,-2.0,False
+SHP100402,5,Palembang,Manado,Delivered,2024-04-15,2024-04-23,4,29992,2024-04-21,6.0,-2.0,False
+SHP100874,13,Surabaya,Bandung,Delivered,2024-01-14,2024-01-15,4,40236,2024-01-15,1.0,0.0,False
+SHP100735,3,Banjarmasin,Balikpapan,In Transit,2024-04-17,2024-04-21,3,39076,,,,False
+SHP100899,7,Palembang,Yogyakarta,Delivered,2024-06-05,2024-06-13,2,28335,2024-06-13,8.0,0.0,False
+SHP100219,5,Jakarta,Surabaya,Delivered,2024-02-16,2024-02-22,11,84648,2024-02-21,5.0,-1.0,False
+SHP100641,15,Surabaya,Semarang,In Transit,2024-04-29,2024-05-08,4,39863,,,,False
+SHP100898,3,Semarang,Manado,In Transit,2024-01-16,2024-01-19,9,64287,,,,False
+SHP100624,10,Semarang,Surabaya,Cancelled,2024-04-17,2024-04-22,10,94519,,,,False
+SHP100935,13,Yogyakarta,Balikpapan,In Transit,2024-04-18,2024-04-21,12,84456,,,,False
+SHP100848,4,Balikpapan,Yogyakarta,Delivered,2024-05-21,2024-05-28,9,68682,2024-05-26,5.0,-2.0,False
+SHP100386,3,Pontianak,Bandung,In Transit,2024-04-03,2024-04-13,17,132555,,,,False
+SHP100806,2,Jakarta,Batam,Delivered,2024-05-01,2024-05-03,15,78258,2024-05-01,0.0,-2.0,False
+SHP100509,13,Balikpapan,Surabaya,In Transit,2024-06-21,2024-06-28,19,105832,,,,False
+SHP100267,4,Medan,Jakarta,Cancelled,2024-02-10,2024-02-12,17,95087,,,,False
+SHP100912,12,Yogyakarta,Balikpapan,In Transit,2024-02-10,2024-02-16,5,42750,,,,False
+SHP100441,12,Semarang,Yogyakarta,Delivered,2024-02-15,2024-02-25,4,45834,2024-02-23,8.0,-2.0,False
+SHP100496,10,Padang,Banjarmasin,Delivered,2024-05-20,2024-05-22,8,60252,2024-05-22,2.0,0.0,False
+SHP100829,15,Semarang,Makassar,Delivered,2024-05-03,2024-05-13,7,68829,2024-05-11,8.0,-2.0,False
+SHP100691,13,Yogyakarta,Manado,Delivered,2024-05-24,2024-06-02,11,95622,2024-05-31,7.0,-2.0,False
+SHP100232,9,Pontianak,Makassar,Delivered,2024-03-01,2024-03-06,14,124258,2024-03-07,6.0,1.0,True
+SHP100968,11,Jakarta,Manado,Delivered,2024-03-05,2024-03-14,12,105467,2024-03-18,13.0,4.0,True
+SHP100607,10,Surabaya,Padang,Delivered,2024-05-18,2024-05-26,10,93187,2024-05-26,8.0,0.0,False
+SHP100671,1,Batam,Balikpapan,In Transit,2024-01-05,2024-01-12,16,80078,,,,False
+SHP100373,8,Banjarmasin,Semarang,Cancelled,2024-01-20,2024-01-27,15,107374,,,,False
+SHP100826,4,Batam,Banjarmasin,In Transit,2024-02-17,2024-02-22,17,119362,,,,False
+SHP100663,1,Semarang,Medan,Delivered,2024-03-24,2024-03-30,8,52351,2024-04-01,8.0,2.0,True
+SHP100940,2,Yogyakarta,Balikpapan,Pending,2024-02-08,2024-02-09,16,93100,,,,False
+SHP100233,7,Semarang,Pontianak,Delivered,2024-02-12,2024-02-15,13,107020,2024-02-13,1.0,-2.0,False
+SHP100818,6,Jakarta,Balikpapan,Delivered,2024-03-05,2024-03-13,19,160379,2024-03-11,6.0,-2.0,False
+SHP100875,15,Makassar,Banjarmasin,Delivered,2024-02-08,2024-02-12,15,115102,2024-02-12,4.0,0.0,False
+SHP100676,12,Banjarmasin,Semarang,Delivered,2024-06-15,2024-06-21,4,39893,2024-06-19,4.0,-2.0,False
+SHP100317,13,Balikpapan,Jakarta,Cancelled,2024-03-30,2024-04-05,7,54100,,,,False
+SHP100648,5,Padang,Makassar,Delivered,2024-05-24,2024-06-02,18,126123,2024-06-07,14.0,5.0,True
+SHP100410,12,Surabaya,Semarang,Delivered,2024-02-10,2024-02-16,13,106961,2024-02-20,10.0,4.0,True
+SHP100998,9,Padang,Semarang,Delivered,2024-01-27,2024-01-31,3,37095,2024-01-29,2.0,-2.0,False
+SHP100709,9,Batam,Yogyakarta,Delivered,2024-04-06,2024-04-08,11,96133,2024-04-07,1.0,-1.0,False
+SHP100358,12,Palembang,Denpasar,Delivered,2024-03-11,2024-03-20,10,60078,2024-03-18,7.0,-2.0,False
+SHP100258,11,Makassar,Medan,Delivered,2024-05-18,2024-05-20,18,155579,2024-05-19,1.0,-1.0,False
+SHP100744,13,Bandung,Jakarta,Delivered,2024-02-15,2024-02-22,14,71669,2024-02-27,12.0,5.0,True
+SHP100627,7,Bandung,Balikpapan,In Transit,2024-06-03,2024-06-13,13,94070,,,,False
+SHP100632,5,Medan,Denpasar,Delivered,2024-04-21,2024-05-01,6,49656,2024-04-29,8.0,-2.0,False
+SHP100282,12,Balikpapan,Surabaya,Delivered,2024-06-01,2024-06-08,17,132186,2024-06-06,5.0,-2.0,False
+SHP100376,1,Pontianak,Bandung,Delivered,2024-05-19,2024-05-27,1,18911,2024-05-26,7.0,-1.0,False
+SHP100384,14,Banjarmasin,Bandung,Delivered,2024-01-11,2024-01-16,3,37106,2024-01-21,10.0,5.0,True
+SHP100224,12,Makassar,Balikpapan,Delivered,2024-04-23,2024-04-30,15,89177,2024-04-30,7.0,0.0,False
+SHP100906,12,Balikpapan,Yogyakarta,Delivered,2024-01-21,2024-01-23,16,143940,2024-01-27,6.0,4.0,True
+SHP100472,6,Manado,Semarang,Delivered,2024-03-21,2024-03-31,4,36934,2024-03-30,9.0,-1.0,False
+SHP100347,3,Manado,Surabaya,Delivered,2024-02-22,2024-02-25,12,85216,2024-02-29,7.0,4.0,True
+SHP100505,10,Balikpapan,Padang,Delivered,2024-03-23,2024-03-27,20,153534,2024-03-25,2.0,-2.0,False
+SHP100639,2,Balikpapan,Jakarta,Delivered,2024-04-13,2024-04-23,15,114553,2024-04-24,11.0,1.0,True
+SHP100797,1,Makassar,Semarang,Delivered,2024-03-16,2024-03-18,11,71040,2024-03-18,2.0,0.0,False
+SHP100339,12,Makassar,Palembang,Delivered,2024-01-28,2024-01-29,2,24094,2024-01-28,0.0,-1.0,False
+SHP100619,14,Banjarmasin,Yogyakarta,Delivered,2024-05-02,2024-05-10,17,86209,2024-05-12,10.0,2.0,True
+SHP100954,8,Balikpapan,Medan,Delivered,2024-03-18,2024-03-26,13,107049,2024-03-26,8.0,0.0,False
+SHP100894,1,Jakarta,Medan,Delivered,2024-04-19,2024-04-26,11,71489,2024-04-25,6.0,-1.0,False
+SHP100645,10,Jakarta,Manado,Delivered,2024-01-07,2024-01-09,11,65781,2024-01-07,0.0,-2.0,False
+SHP100944,9,Palembang,Batam,Delivered,2024-01-16,2024-01-22,12,65168,2024-01-20,4.0,-2.0,False
+SHP100556,14,Yogyakarta,Medan,In Transit,2024-01-13,2024-01-20,8,75404,,,,False
+SHP100681,14,Medan,Jakarta,Delivered,2024-03-04,2024-03-09,6,55698,2024-03-07,3.0,-2.0,False
+SHP100577,10,Pontianak,Banjarmasin,Delivered,2024-03-07,2024-03-10,10,59456,2024-03-10,3.0,0.0,False
+SHP100795,10,Jakarta,Palembang,Delivered,2024-01-05,2024-01-15,9,69026,2024-01-17,12.0,2.0,True
+SHP100085,2,Banjarmasin,Jakarta,Pending,2024-04-07,2024-04-16,13,79456,,,,False
+SHP100242,13,Yogyakarta,Padang,Delivered,2024-01-01,2024-01-05,17,145820,2024-01-04,3.0,-1.0,False
+SHP100698,9,Medan,Denpasar,Delivered,2024-06-04,2024-06-09,2,30983,2024-06-09,5.0,0.0,False
+SHP100159,1,Banjarmasin,Pontianak,Cancelled,2024-04-25,2024-05-05,4,37760,,,,False
+SHP100524,6,Balikpapan,Batam,Cancelled,2024-06-21,2024-06-25,17,86514,,,,False
+SHP100035,12,Batam,Makassar,Delivered,2024-03-10,2024-03-11,4,38468,2024-03-10,0.0,-1.0,False
+SHP100540,6,Makassar,Banjarmasin,Delivered,2024-06-27,2024-07-03,5,41891,2024-07-03,6.0,0.0,False
+SHP100170,3,Palembang,Denpasar,Delivered,2024-02-26,2024-03-02,13,91967,2024-03-02,5.0,0.0,False
+SHP100654,1,Denpasar,Padang,In Transit,2024-02-04,2024-02-13,15,121406,,,,False
+SHP100990,5,Banjarmasin,Denpasar,Delivered,2024-05-05,2024-05-14,11,99275,2024-05-16,11.0,2.0,True
+SHP100956,6,Yogyakarta,Padang,Delivered,2024-04-13,2024-04-23,13,109718,2024-04-21,8.0,-2.0,False
+SHP100945,2,Surabaya,Palembang,Cancelled,2024-02-12,2024-02-18,19,111626,,,,False
+SHP100484,11,Padang,Bandung,In Transit,2024-05-21,2024-05-24,2,24246,,,,False
+SHP100733,7,Palembang,Balikpapan,Delivered,2024-03-28,2024-04-01,20,104485,2024-04-03,6.0,2.0,True
+SHP100095,13,Manado,Surabaya,Delivered,2024-05-17,2024-05-18,13,76705,2024-05-18,1.0,0.0,False
+SHP100563,2,Manado,Semarang,Pending,2024-06-19,2024-06-21,5,34324,,,,False
+SHP100240,9,Semarang,Manado,Delivered,2024-02-12,2024-02-14,12,88120,2024-02-18,6.0,4.0,True
+SHP100742,9,Denpasar,Batam,Delivered,2024-02-09,2024-02-17,20,118167,2024-02-21,12.0,4.0,True
+SHP100863,1,Surabaya,Batam,Delivered,2024-01-14,2024-01-20,14,77283,2024-01-18,4.0,-2.0,False
+SHP100574,7,Palembang,Balikpapan,In Transit,2024-02-10,2024-02-16,3,28996,,,,False
+SHP100690,8,Balikpapan,Palembang,Delivered,2024-01-30,2024-02-02,6,56764,2024-02-02,3.0,0.0,False
+SHP100460,1,Bandung,Jakarta,Delivered,2024-01-01,2024-01-02,20,139322,2024-01-01,0.0,-1.0,False
+SHP100891,14,Palembang,Bandung,Delivered,2024-04-23,2024-04-25,4,36773,2024-04-26,3.0,1.0,True
+SHP100553,6,Manado,Bandung,Cancelled,2024-06-27,2024-07-04,18,86149,,,,False
+SHP100857,13,Pontianak,Yogyakarta,Delivered,2024-03-13,2024-03-23,2,27177,2024-03-27,14.0,4.0,True
+SHP100977,5,Bandung,Makassar,Delivered,2024-03-09,2024-03-14,14,81031,2024-03-14,5.0,0.0,False
+SHP100206,13,Balikpapan,Bandung,Delivered,2024-06-14,2024-06-24,15,132583,2024-06-29,15.0,5.0,True
+SHP100392,2,Jakarta,Pontianak,In Transit,2024-06-19,2024-06-24,5,49098,,,,False
+SHP100794,10,Pontianak,Jakarta,Delivered,2024-04-24,2024-05-02,2,26482,2024-05-02,8.0,0.0,False
+SHP100870,10,Banjarmasin,Makassar,Delivered,2024-01-19,2024-01-27,6,45640,2024-01-31,12.0,4.0,True
+SHP100397,4,Yogyakarta,Denpasar,In Transit,2024-06-07,2024-06-09,6,41221,,,,False
+SHP100766,12,Medan,Denpasar,Delivered,2024-03-27,2024-03-30,16,82645,2024-03-30,3.0,0.0,False
+SHP100946,10,Padang,Jakarta,In Transit,2024-03-19,2024-03-26,18,148320,,,,False
+SHP100217,14,Palembang,Jakarta,Delivered,2024-02-05,2024-02-06,20,143528,2024-02-09,4.0,3.0,True
+SHP100004,11,Medan,Batam,Delivered,2024-01-18,2024-01-25,13,115660,2024-01-24,6.0,-1.0,False
+SHP100768,4,Semarang,Denpasar,Delivered,2024-05-06,2024-05-08,9,82295,2024-05-12,6.0,4.0,True
+SHP100642,10,Banjarmasin,Medan,Delivered,2024-02-02,2024-02-05,9,52759,2024-02-03,1.0,-2.0,False
+SHP100997,14,Palembang,Balikpapan,Delivered,2024-06-20,2024-06-29,10,83390,2024-06-29,9.0,0.0,False
+SHP100612,13,Pontianak,Batam,Delivered,2024-04-17,2024-04-22,2,25603,2024-04-21,4.0,-1.0,False
+SHP100738,1,Bandung,Semarang,Delivered,2024-04-20,2024-04-24,1,20422,2024-04-27,7.0,3.0,True
+SHP100546,5,Balikpapan,Surabaya,In Transit,2024-06-16,2024-06-24,13,80305,,,,False
+SHP100725,8,Medan,Makassar,In Transit,2024-03-29,2024-03-30,5,43141,,,,False
+SHP100683,13,Semarang,Surabaya,Delivered,2024-01-06,2024-01-09,14,126436,2024-01-09,3.0,0.0,False
+SHP100098,10,Medan,Pontianak,Delivered,2024-03-28,2024-04-04,2,26795,2024-04-03,6.0,-1.0,False
+SHP100804,10,Semarang,Balikpapan,Delivered,2024-05-28,2024-06-06,11,80478,2024-06-04,7.0,-2.0,False
+SHP100727,14,Semarang,Batam,Delivered,2024-04-19,2024-04-25,10,72826,2024-04-28,9.0,3.0,True
+SHP100573,10,Makassar,Surabaya,Delivered,2024-04-24,2024-04-29,2,23739,2024-05-02,8.0,3.0,True
+SHP100406,7,Semarang,Denpasar,Delivered,2024-04-15,2024-04-23,4,38653,2024-04-22,7.0,-1.0,False
+SHP100502,8,Makassar,Semarang,In Transit,2024-05-28,2024-06-05,16,135374,,,,False
+SHP100047,15,Bandung,Banjarmasin,Delivered,2024-03-09,2024-03-17,17,144628,2024-03-16,7.0,-1.0,False
+SHP100032,10,Batam,Padang,Delivered,2024-02-11,2024-02-19,2,26721,2024-02-23,12.0,4.0,True
+SHP100929,1,Yogyakarta,Semarang,Delivered,2024-02-29,2024-03-05,16,90149,2024-03-05,5.0,0.0,False
+SHP100779,10,Semarang,Pontianak,Delivered,2024-03-11,2024-03-18,2,29585,2024-03-17,6.0,-1.0,False
+SHP100839,7,Medan,Padang,Delivered,2024-04-02,2024-04-11,17,137590,2024-04-10,8.0,-1.0,False
+SHP100200,5,Denpasar,Bandung,Delivered,2024-04-18,2024-04-28,4,41292,2024-04-27,9.0,-1.0,False
+SHP100134,8,Balikpapan,Manado,Delivered,2024-01-22,2024-01-26,20,167719,2024-01-24,2.0,-2.0,False
+SHP100027,2,Banjarmasin,Batam,In Transit,2024-06-04,2024-06-08,11,64839,,,,False
+SHP100979,6,Manado,Surabaya,In Transit,2024-01-11,2024-01-15,16,87646,,,,False
+SHP100230,7,Palembang,Batam,Delivered,2024-01-04,2024-01-13,14,122844,2024-01-13,9.0,0.0,False
+SHP100489,8,Bandung,Pontianak,In Transit,2024-04-07,2024-04-17,17,126576,,,,False
+SHP100772,5,Denpasar,Makassar,Delivered,2024-02-24,2024-02-25,14,89363,2024-02-28,4.0,3.0,True
+SHP100378,4,Denpasar,Palembang,Delivered,2024-04-04,2024-04-06,15,80679,2024-04-11,7.0,5.0,True
+SHP100288,3,Balikpapan,Pontianak,Delivered,2024-05-29,2024-06-01,10,66421,2024-06-01,3.0,0.0,False
+SHP100418,6,Medan,Jakarta,In Transit,2024-04-27,2024-04-29,4,44722,,,,False
+SHP100674,10,Surabaya,Yogyakarta,Delivered,2024-03-30,2024-04-09,6,46599,2024-04-09,10.0,0.0,False
+SHP100391,2,Batam,Manado,Delivered,2024-03-04,2024-03-13,6,58820,2024-03-12,8.0,-1.0,False
+SHP100592,6,Semarang,Padang,Delivered,2024-03-22,2024-03-25,2,24033,2024-03-26,4.0,1.0,True
+SHP100498,10,Medan,Pontianak,Delivered,2024-03-18,2024-03-26,16,114320,2024-03-26,8.0,0.0,False
+SHP100138,8,Semarang,Balikpapan,In Transit,2024-02-02,2024-02-04,1,20505,,,,False
+SHP100062,4,Padang,Pontianak,Delivered,2024-05-23,2024-05-27,19,95342,2024-05-26,3.0,-1.0,False
+SHP100471,15,Medan,Banjarmasin,Delivered,2024-06-08,2024-06-11,15,81781,2024-06-15,7.0,4.0,True
+SHP100647,8,Yogyakarta,Batam,Pending,2024-05-31,2024-06-02,10,79154,,,,False
+SHP100128,15,Jakarta,Bandung,Delivered,2024-03-19,2024-03-28,3,37278,2024-04-01,13.0,4.0,True
+SHP100520,2,Jakarta,Pontianak,Cancelled,2024-06-07,2024-06-08,20,133263,,,,False
+SHP100838,3,Surabaya,Denpasar,Pending,2024-02-28,2024-03-01,17,120577,,,,False
+SHP100064,12,Yogyakarta,Balikpapan,Delivered,2024-03-08,2024-03-17,12,63835,2024-03-15,7.0,-2.0,False
+SHP100812,5,Pontianak,Jakarta,Delivered,2024-03-25,2024-03-29,8,65077,2024-03-28,3.0,-1.0,False
+SHP100014,8,Balikpapan,Palembang,Delivered,2024-04-26,2024-05-05,12,98767,2024-05-07,11.0,2.0,True
+SHP100156,8,Batam,Bandung,Delivered,2024-04-05,2024-04-08,16,101563,2024-04-07,2.0,-1.0,False
+SHP100040,15,Manado,Semarang,Delivered,2024-06-24,2024-07-03,19,161214,2024-07-08,14.0,5.0,True
+SHP100492,11,Batam,Surabaya,Delivered,2024-06-06,2024-06-09,1,21344,2024-06-09,3.0,0.0,False
+SHP100379,6,Bandung,Manado,Delivered,2024-05-29,2024-06-04,8,51331,2024-06-03,5.0,-1.0,False
+SHP100187,15,Denpasar,Medan,Delivered,2024-02-03,2024-02-11,15,126003,2024-02-10,7.0,-1.0,False
+SHP100763,5,Bandung,Pontianak,Delivered,2024-06-05,2024-06-10,10,89543,2024-06-10,5.0,0.0,False
+SHP100216,13,Batam,Padang,Pending,2024-04-24,2024-05-02,20,135146,,,,False
+SHP100921,5,Batam,Padang,Delivered,2024-02-29,2024-03-03,4,30638,2024-03-02,2.0,-1.0,False
+SHP100791,15,Makassar,Surabaya,In Transit,2024-05-01,2024-05-09,15,103492,,,,False
+SHP100052,4,Manado,Medan,In Transit,2024-02-24,2024-03-04,13,71333,,,,False
+SHP100878,5,Manado,Makassar,Delivered,2024-03-18,2024-03-23,13,85317,2024-03-22,4.0,-1.0,False
+SHP100337,1,Batam,Jakarta,Delivered,2024-03-08,2024-03-11,1,19780,2024-03-14,6.0,3.0,True
+SHP100748,4,Denpasar,Jakarta,Delivered,2024-06-06,2024-06-09,10,59186,2024-06-08,2.0,-1.0,False
+SHP100719,1,Banjarmasin,Makassar,Delivered,2024-03-18,2024-03-21,6,52003,2024-03-23,5.0,2.0,True
+SHP100724,7,Surabaya,Semarang,In Transit,2024-01-11,2024-01-19,16,139161,,,,False
+SHP100295,7,Jakarta,Medan,Delivered,2024-03-21,2024-03-22,2,26842,2024-03-27,6.0,5.0,True
+SHP100701,10,Bandung,Palembang,Delivered,2024-02-11,2024-02-17,8,67918,2024-02-21,10.0,4.0,True
+SHP100251,5,Yogyakarta,Manado,Delivered,2024-05-04,2024-05-06,16,121489,2024-05-06,2.0,0.0,False
+SHP100726,7,Balikpapan,Batam,Delivered,2024-05-16,2024-05-23,17,92662,2024-05-21,5.0,-2.0,False
+SHP100461,4,Manado,Padang,Delivered,2024-05-13,2024-05-23,3,31092,2024-05-22,9.0,-1.0,False
+SHP100455,14,Pontianak,Denpasar,In Transit,2024-05-27,2024-06-03,9,84655,,,,False
+SHP100270,7,Semarang,Batam,Pending,2024-01-21,2024-01-28,16,117489,,,,False
+SHP100815,8,Palembang,Surabaya,Delivered,2024-04-26,2024-05-04,1,23563,2024-05-03,7.0,-1.0,False
+SHP100862,12,Yogyakarta,Padang,In Transit,2024-02-17,2024-02-26,11,91602,,,,False
+SHP100269,14,Semarang,Batam,In Transit,2024-05-10,2024-05-15,11,87891,,,,False
+SHP100995,1,Padang,Bandung,Delivered,2024-03-26,2024-03-29,12,71173,2024-03-28,2.0,-1.0,False
+SHP100161,7,Padang,Jakarta,Delivered,2024-03-04,2024-03-14,7,59696,2024-03-13,9.0,-1.0,False
+SHP100555,4,Bandung,Banjarmasin,Delivered,2024-04-28,2024-04-30,9,77260,2024-05-04,6.0,4.0,True
+SHP100729,12,Palembang,Bandung,Delivered,2024-04-04,2024-04-12,7,62949,2024-04-12,8.0,0.0,False
+SHP100401,14,Palembang,Surabaya,Cancelled,2024-02-15,2024-02-22,15,82894,,,,False
+SHP100702,5,Bandung,Batam,Delivered,2024-03-20,2024-03-28,4,35129,2024-03-27,7.0,-1.0,False
+SHP100476,14,Semarang,Batam,In Transit,2024-05-09,2024-05-10,19,154087,,,,False
+SHP100821,15,Palembang,Yogyakarta,Delivered,2024-02-19,2024-02-20,2,29039,2024-02-25,6.0,5.0,True
+SHP100771,4,Makassar,Denpasar,Delivered,2024-05-04,2024-05-10,13,91388,2024-05-10,6.0,0.0,False
+SHP100105,15,Manado,Banjarmasin,Delivered,2024-03-08,2024-03-18,6,46627,2024-03-16,8.0,-2.0,False
+SHP100565,10,Manado,Padang,Delivered,2024-05-23,2024-05-25,20,137972,2024-05-27,4.0,2.0,True
+SHP100389,2,Yogyakarta,Batam,In Transit,2024-02-23,2024-03-01,5,40839,,,,False
+SHP100001,4,Surabaya,Balikpapan,Delivered,2024-05-27,2024-06-03,20,139058,2024-06-01,5.0,-2.0,False
+SHP100561,4,Jakarta,Surabaya,Delivered,2024-02-04,2024-02-12,5,42735,2024-02-10,6.0,-2.0,False
+SHP100931,4,Bandung,Makassar,Delivered,2024-06-09,2024-06-11,8,72245,2024-06-11,2.0,0.0,False
+SHP100080,15,Bandung,Jakarta,Pending,2024-06-23,2024-07-02,7,62566,,,,False
+SHP100205,11,Medan,Yogyakarta,Delivered,2024-06-16,2024-06-20,17,99260,2024-06-18,2.0,-2.0,False
+SHP100034,13,Yogyakarta,Balikpapan,In Transit,2024-04-07,2024-04-09,4,42050,,,,False
+SHP100775,7,Padang,Denpasar,Delivered,2024-03-28,2024-04-04,16,118815,2024-04-04,7.0,0.0,False
+SHP100508,4,Batam,Bandung,Delivered,2024-04-23,2024-04-29,2,25269,2024-04-29,6.0,0.0,False
+SHP100091,6,Denpasar,Bandung,Delivered,2024-01-03,2024-01-13,6,49658,2024-01-11,8.0,-2.0,False
+SHP100897,6,Semarang,Banjarmasin,Delivered,2024-06-07,2024-06-13,17,97820,2024-06-17,10.0,4.0,True
+SHP100564,12,Padang,Pontianak,In Transit,2024-05-15,2024-05-22,18,93304,,,,False
+SHP100776,13,Yogyakarta,Manado,Delivered,2024-03-12,2024-03-21,13,101870,2024-03-19,7.0,-2.0,False
+SHP100241,4,Semarang,Jakarta,Pending,2024-04-07,2024-04-10,1,22370,,,,False
+SHP100013,11,Yogyakarta,Banjarmasin,Delivered,2024-03-12,2024-03-19,9,82163,2024-03-18,6.0,-1.0,False
+SHP100315,11,Makassar,Surabaya,In Transit,2024-03-08,2024-03-09,3,38733,,,,False
+SHP100600,15,Jakarta,Bandung,Delivered,2024-02-09,2024-02-19,6,42735,2024-02-18,9.0,-1.0,False
+SHP100387,9,Semarang,Banjarmasin,Delivered,2024-01-11,2024-01-20,20,143614,2024-01-18,7.0,-2.0,False
+SHP100166,12,Pontianak,Padang,Cancelled,2024-05-30,2024-06-03,11,90828,,,,False
+SHP100840,14,Manado,Makassar,Pending,2024-02-15,2024-02-24,11,72765,,,,False
+SHP100020,6,Manado,Makassar,Delivered,2024-02-23,2024-02-27,17,109411,2024-02-26,3.0,-1.0,False
+SHP100646,1,Yogyakarta,Makassar,Delivered,2024-04-10,2024-04-16,9,54126,2024-04-14,4.0,-2.0,False
+SHP100831,13,Palembang,Bandung,Delivered,2024-05-30,2024-06-03,5,41092,2024-06-02,3.0,-1.0,False
+SHP100562,13,Manado,Balikpapan,Delivered,2024-04-28,2024-05-04,9,72606,2024-05-02,4.0,-2.0,False
+SHP100686,3,Batam,Balikpapan,Delivered,2024-03-02,2024-03-07,14,94913,2024-03-05,3.0,-2.0,False
+SHP100957,1,Padang,Balikpapan,Delivered,2024-03-10,2024-03-13,4,38050,2024-03-12,2.0,-1.0,False
+SHP100189,10,Makassar,Batam,Delivered,2024-05-27,2024-05-31,17,149520,2024-05-31,4.0,0.0,False
+SHP100975,15,Surabaya,Jakarta,Delivered,2024-01-06,2024-01-10,15,104801,2024-01-10,4.0,0.0,False
+SHP100699,7,Pontianak,Yogyakarta,Delivered,2024-06-04,2024-06-07,11,75432,2024-06-05,1.0,-2.0,False
+SHP100510,4,Denpasar,Semarang,Delivered,2024-02-24,2024-02-26,5,53705,2024-02-25,1.0,-1.0,False
+SHP100474,3,Balikpapan,Semarang,Delivered,2024-02-01,2024-02-03,18,105774,2024-02-01,0.0,-2.0,False
+SHP100856,3,Denpasar,Makassar,Delivered,2024-05-26,2024-05-28,19,138953,2024-05-28,2.0,0.0,False
+SHP100747,1,Yogyakarta,Palembang,Delivered,2024-03-10,2024-03-17,14,78492,2024-03-22,12.0,5.0,True
+SHP100252,1,Denpasar,Bandung,Delivered,2024-02-09,2024-02-17,4,38805,2024-02-15,6.0,-2.0,False
+SHP100021,5,Bandung,Denpasar,Cancelled,2024-06-20,2024-06-29,18,116438,,,,False
+SHP100459,12,Pontianak,Palembang,Delivered,2024-04-21,2024-04-30,20,138010,2024-05-03,12.0,3.0,True
+SHP100276,8,Banjarmasin,Bandung,In Transit,2024-03-01,2024-03-09,8,63336,,,,False
+SHP100955,1,Yogyakarta,Padang,Delivered,2024-06-28,2024-06-30,14,85283,2024-07-01,3.0,1.0,True
+SHP100385,9,Surabaya,Banjarmasin,Delivered,2024-03-19,2024-03-29,2,30104,2024-03-28,9.0,-1.0,False
+SHP100805,9,Manado,Yogyakarta,Pending,2024-04-04,2024-04-11,9,52497,,,,False
+SHP100343,7,Bandung,Banjarmasin,Delivered,2024-03-13,2024-03-17,5,51106,2024-03-16,3.0,-1.0,False
+SHP100769,11,Bandung,Denpasar,Delivered,2024-03-24,2024-03-28,15,100978,2024-03-26,2.0,-2.0,False
+SHP100130,1,Balikpapan,Padang,Delivered,2024-01-15,2024-01-25,15,97548,2024-01-29,14.0,4.0,True
+SHP100871,12,Semarang,Pontianak,In Transit,2024-05-27,2024-05-28,12,72084,,,,False
+SHP100087,4,Manado,Medan,Delivered,2024-04-29,2024-05-07,2,27827,2024-05-10,11.0,3.0,True
+SHP100330,4,Manado,Batam,Delivered,2024-01-03,2024-01-13,20,145093,2024-01-14,11.0,1.0,True
+SHP100466,1,Medan,Manado,Delivered,2024-04-03,2024-04-08,15,130066,2024-04-08,5.0,0.0,False
+SHP100121,9,Jakarta,Denpasar,Delivered,2024-01-01,2024-01-08,5,36598,2024-01-08,7.0,0.0,False
+SHP100860,9,Balikpapan,Batam,Delivered,2024-04-22,2024-04-23,15,103681,2024-04-27,5.0,4.0,True
