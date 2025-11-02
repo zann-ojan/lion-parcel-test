@@ -1,8 +1,7 @@
 # Technical Test – Lion Parcel Data Analytic
 
 ## Overview
-The purpose of this project is to transform raw shipment and customer data into a structured and analysis-ready dataset. The final goal is to build a data mart summarizing shipment performance by customer and month, which can be used for dashboards and reporting.
-There are 3 layers for data architecture in this test:
+The goal of this project is to transform raw shipment and customer data into a structured, analysis-ready dataset. The final output is a data mart summarizing shipment performance by customer and month, which can later be used for dashboards and business reporting. The data architecture for this project consists of three layers:
 1. Bronze layer/Raw layer : Contains unprocessed/raw shipment and customer data.
 2. Silver layer : Cleans and standardizes shipment data (handles duplicates, invalid/missing values, standardizes formats).
 3. Gold layer : Aggregates cleaned data with customer info to create month year shipment performance summaries.
@@ -11,7 +10,7 @@ There are 3 layers for data architecture in this test:
 
 ### Silver layer
 1.  **Remove Duplicates**
-    <br> Remove duplicate rows to ensure clean and consistent data.  
+    <br> Eliminate duplicate rows to ensure data consistency. 
     ```python
     df = df.drop_duplicates().reset_index(drop=True)
     ```
@@ -21,20 +20,20 @@ There are 3 layers for data architecture in this test:
     df[col] = pd.to_datetime(df[col], format='mixed')
     ```
 3.  **Handle Invalid Delivery Dates**
-    <br> Remove records where delivered_date < booked_date. These are considered invalid or data entry errors. Since this invalid data represents only 1.31% of all records, it is removed from the dataset to maintain data quality.
+    <br> Remove records where `delivered_date < booked_date`, as they represent invalid or erroneous data entries. These invalid records account for only 1.31% of total data, so they are safely excluded.
     ``` python
     df = df[~(df['delivered_date'] < df['booked_date'])].reset_index(drop=True)
     ```
 4.  **Standardize Text Fields**
-    <br> Clean up and normalize the Status column for consistent naming (e.g., "in-transit" → "In Transit").
+    <br> Clean up and normalize the `status` column for consistent naming (e.g., "in-transit" → "In Transit").
     ``` python
     df['status'] = df['status'].str.replace('-', ' ').str.title()
     ```
 5.  **Create Derived Columns**
     <br> 
-    - delivery_duration_days: number of days between booked_date and delivered_date
-    - delivery_delay_days = (delivered_date - estimated_delivery_date), if delivered
-    - is_delayed = True if delivered_date > estimated_delivery_date, else False
+    - `delivery_duration_days`: number of days between booked_date and delivered_date
+    - `delivery_delay_days` = (delivered_date - estimated_delivery_date), if delivered
+    - `is_delayed` = True if delivered_date > estimated_delivery_date, else False
     ``` python
     df_shipments_cleaned['delivery_duration_days'] = (
         df_shipments_cleaned['delivered_date'] - df_shipments_cleaned['booked_date']
@@ -54,7 +53,7 @@ There are 3 layers for data architecture in this test:
     ```
 6. **Handling Missing Values**
     <br>
-    for this test, saya tidak menghapus nilai null, karena nilai null hanya ada di kolom delivered_date, yang mana ini benar karena delivery_date tetap null karena statusnya adalah Cancelled, In Transit, atau Pending
+    Missing values are retained instead of dropped, since they only occur in the `delivered_date` column for shipments with statuses such as Cancelled, In Transit, or Pending, which is expected.
 
 ### Gold Layer
 1.  **Join Shipment Data with Customer Data**
@@ -95,3 +94,22 @@ There are 3 layers for data architecture in this test:
 - Each shipment record must be unique; duplicates are removed.
 
 ## How to Reproduce
+1.  **Clone this Repository**
+    ```
+    git clone https://github.com/ojan-rozan/lion-parcel-test.git
+    cd Lion Parcel - Data Analyst
+    ```
+2.  Install Required Libraries
+    ```
+    pip install -r requirements.txt
+    ```
+3.  Run Each Layer Scripts
+    <br>
+    - Silver Layer (Cleaning & Transformation)
+    ```
+    python silver_layer.py
+    ```
+    - Gold Layer (Aggregation)
+    ```
+    python gold_layer.py
+    ```
